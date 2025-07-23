@@ -275,7 +275,7 @@ AgingBioHypotheses/
 Если вы используете этот проект в своих исследованиях, пожалуйста, цитируйте:
 
 ```bibtex
-@software{agingbiohypotheses2024,
+@software{agingbiohypotheses2025,
   title={AgingBioHypotheses: Scientific Hypothesis Generator for Aging Biology},
   author={Margarita Soloshenko},
   year={2025},

@@ -1,0 +1,2158 @@
+:START_ID,:END_ID,:TYPE,weight:float
+haematopoietic progenitors,cells,CONNECTED_TO,1
+mu5 (gstm5),patients,CONNECTED_TO,1
+mu5 (gstm5),glutathione s-transferase isoforms mu1,CONNECTED_TO,1
+human cell lines.(41,serpine1,CONNECTED_TO,1
+phospho-kinases,human phospho-kinase,CONNECTED_TO,2
+phospho-kinases,cells,CONNECTED_TO,2
+interleukin 1 alpha,endothelial cells,CONNECTED_TO,1
+human prame antibody,horseradish peroxidase conjugated,CONNECTED_TO,1
+cmv-vs-other,cell,CONNECTED_TO,1
+cmv-vs-other,human,CONNECTED_TO,1
+somatic human cells,cell,CONNECTED_TO,1
+human colorectal,cervical cancer cells,CONNECTED_TO,1
+human colorectal,tissue,CONNECTED_TO,1
+il-6 -174g/c locus,hand 1267 hsp70-2a/b or,CONNECTED_TO,1
+chymotrypsin-like,aging-associated protein aggregates,CONNECTED_TO,1
+human igf1,serpine1,CONNECTED_TO,1
+human placenta-derived mesenchymal cells,neuronal,CONNECTED_TO,1
+renal lesions,kidney,CONNECTED_TO,1
+renal lesions,human,CONNECTED_TO,1
+paraquat,tbh,CONNECTED_TO,1
+nasal microbiome,nasal cell,CONNECTED_TO,1
+nasal microbiome,cellular,CONNECTED_TO,1
+bone,human,CONNECTED_TO,65
+bone,patients,CONNECTED_TO,18
+bone,brain,CONNECTED_TO,15
+bone,serum,CONNECTED_TO,5
+bone,glucose,CONNECTED_TO,5
+bone,renal,CONNECTED_TO,9
+bone,skin,CONNECTED_TO,11
+bone,plasma,CONNECTED_TO,4
+bone,vascular,CONNECTED_TO,4
+bone,muscle,CONNECTED_TO,20
+bone,collagen,CONNECTED_TO,11
+bone,mice,CONNECTED_TO,24
+bone,cells,CONNECTED_TO,18
+bone,mouse,CONNECTED_TO,10
+bone,cell,CONNECTED_TO,25
+bone,stem cell,CONNECTED_TO,4
+bone,humans,CONNECTED_TO,7
+bone,calcium,CONNECTED_TO,6
+bone,body,CONNECTED_TO,13
+bone,rats,CONNECTED_TO,4
+bone,tissue,CONNECTED_TO,11
+bone,cardiovascular,CONNECTED_TO,8
+bone,tumor,CONNECTED_TO,8
+bone,cancer,CONNECTED_TO,11
+bone,cardiac,CONNECTED_TO,9
+bone,chromatin,CONNECTED_TO,3
+bone,cellular,CONNECTED_TO,13
+bone,heart,CONNECTED_TO,8
+bone,liver,CONNECTED_TO,13
+bone,neuronal,CONNECTED_TO,8
+bone,fat,CONNECTED_TO,4
+bone,mitochondrial,CONNECTED_TO,7
+bone,lung,CONNECTED_TO,12
+bone,intestinal,CONNECTED_TO,5
+bone,blood,CONNECTED_TO,13
+bone,p53,CONNECTED_TO,1
+bone,kidney,CONNECTED_TO,9
+bone,gut,CONNECTED_TO,6
+bone,lipid,CONNECTED_TO,2
+bone,intracellular,CONNECTED_TO,5
+bone,immune cells,CONNECTED_TO,3
+bone,fibroblasts,CONNECTED_TO,2
+bone,breast cancer,CONNECTED_TO,3
+bone,tumor cells,CONNECTED_TO,3
+bone,egfr,CONNECTED_TO,3
+bone,wnt,CONNECTED_TO,6
+bone,rat,CONNECTED_TO,1
+bone,nuclear,CONNECTED_TO,1
+bone,ros,CONNECTED_TO,2
+bone,ecm,CONNECTED_TO,3
+bone,tnf,CONNECTED_TO,5
+bone,cd4,CONNECTED_TO,1
+bone,fibroblast growth factor 8,CONNECTED_TO,1
+bone,gata4,CONNECTED_TO,4
+bone,stat3,CONNECTED_TO,1
+bone,hmgb1,CONNECTED_TO,1
+bone,rna,CONNECTED_TO,1
+bone,sphk1,CONNECTED_TO,2
+human buccal tissuesample,cpg inputscorrelationerror,CONNECTED_TO,1
+human buccal tissuesample,5.33 years.table,CONNECTED_TO,1
+human mitochondrial genome,humans,CONNECTED_TO,1
+human mitochondrial genome,soma,CONNECTED_TO,1
+human mitochondrial genome,mice,CONNECTED_TO,1
+blood-brain barrier-permeable,hypothalamic histone,CONNECTED_TO,1
+xeroderma,tumor,CONNECTED_TO,1
+xeroderma,cockayne,CONNECTED_TO,1
+resveratrol-treated np cells,np cells,CONNECTED_TO,1
+resveratrol-treated np cells,mitochondrial,CONNECTED_TO,1
+resveratrol-treated np cells,human,CONNECTED_TO,1
+resveratrol-treated np cells,human ivd nucleus pulposus,CONNECTED_TO,1
+resveratrol-treated np cells,human ivd np cellswang,CONNECTED_TO,1
+amino,glucose,CONNECTED_TO,1
+heterochromatin protein 1β,cellular,CONNECTED_TO,1
+heterochromatin protein 1β,p16 [18],CONNECTED_TO,1
+atk,stat3,CONNECTED_TO,1
+atk,estrogen receptor α,CONNECTED_TO,1
+atk,p55,CONNECTED_TO,1
+atk,fat,CONNECTED_TO,1
+gerbils,human,CONNECTED_TO,1
+human arteries,serpine1,CONNECTED_TO,1
+tibialis anterior muscles,5’-amp-activated protein kinase catalytic subunit,CONNECTED_TO,1
+tibialis anterior muscles,la-related protein 1,CONNECTED_TO,1
+tibialis anterior muscles,gastrocnemius muscles.,CONNECTED_TO,1
+tibialis anterior muscles,alpha-2,CONNECTED_TO,1
+tibialis anterior muscles,soleus,CONNECTED_TO,1
+tibialis anterior muscles,muscle-dependent,CONNECTED_TO,1
+tibialis anterior muscles,larp1,CONNECTED_TO,1
+tibialis anterior muscles,triceps,CONNECTED_TO,1
+pc12 neuronal cells,cell,CONNECTED_TO,1
+intestinal stem,cellular,CONNECTED_TO,1
+intestinal stem,jejunal sections,CONNECTED_TO,1
+intestinal stem,cells,CONNECTED_TO,1
+intestinal stem,cell fate-determining,CONNECTED_TO,1
+cancer,human,CONNECTED_TO,342
+cancer,chromatin,CONNECTED_TO,8
+cancer,cell,CONNECTED_TO,163
+cancer,liver,CONNECTED_TO,33
+cancer,lung,CONNECTED_TO,33
+cancer,brain,CONNECTED_TO,17
+cancer,tumor,CONNECTED_TO,96
+cancer,humans,CONNECTED_TO,13
+cancer,renal,CONNECTED_TO,14
+cancer,stem cell,CONNECTED_TO,15
+cancer,skin,CONNECTED_TO,11
+cancer,cellular,CONNECTED_TO,61
+cancer,rna,CONNECTED_TO,8
+cancer,cardiovascular,CONNECTED_TO,69
+cancer,cells,CONNECTED_TO,94
+cancer,kidney,CONNECTED_TO,14
+cancer,mice,CONNECTED_TO,32
+cancer,body,CONNECTED_TO,17
+cancer,muscle,CONNECTED_TO,9
+cancer,glucose,CONNECTED_TO,8
+cancer,vascular,CONNECTED_TO,11
+cancer,heart,CONNECTED_TO,33
+cancer,cardiac,CONNECTED_TO,9
+cancer,patients,CONNECTED_TO,59
+cancer,neuronal,CONNECTED_TO,8
+cancer,tissue,CONNECTED_TO,29
+cancer,mouse,CONNECTED_TO,36
+cancer,mitochondrial,CONNECTED_TO,12
+cancer,p53,CONNECTED_TO,11
+cancer,ros,CONNECTED_TO,8
+cancer,cd4,CONNECTED_TO,14
+cancer,fat,CONNECTED_TO,5
+cancer,calcium,CONNECTED_TO,6
+cancer,blood,CONNECTED_TO,21
+cancer,breast cancer,CONNECTED_TO,34
+cancer,endothelial cells,CONNECTED_TO,3
+cancer,wnt,CONNECTED_TO,5
+cancer,fibroblasts,CONNECTED_TO,8
+cancer,collagen,CONNECTED_TO,4
+cancer,20-22,CONNECTED_TO,1
+cancer,20-25 human,CONNECTED_TO,1
+cancer,hmgb1,CONNECTED_TO,4
+cancer,lipid,CONNECTED_TO,11
+cancer,intestinal,CONNECTED_TO,17
+cancer,human caloric,CONNECTED_TO,1
+cancer,plasma,CONNECTED_TO,6
+cancer,egfr,CONNECTED_TO,10
+cancer,stat3,CONNECTED_TO,6
+cancer,tumor cells,CONNECTED_TO,22
+cancer,immune cells,CONNECTED_TO,10
+cancer,ecm,CONNECTED_TO,4
+cancer,gut,CONNECTED_TO,20
+cancer,serum,CONNECTED_TO,3
+cancer,rats,CONNECTED_TO,4
+cancer,intracellular,CONNECTED_TO,4
+cancer,tnf,CONNECTED_TO,3
+cancer,nuclear,CONNECTED_TO,10
+cancer,human tissues/cells,CONNECTED_TO,1
+cancer,gata4,CONNECTED_TO,5
+cancer,cockayne,CONNECTED_TO,1
+cancer,rat,CONNECTED_TO,1
+cancer,sirt2,CONNECTED_TO,1
+cancer,serpine1,CONNECTED_TO,13
+cancer,sphk1,CONNECTED_TO,16
+renal 25ohd 1 alpha hydroxylase,human parathyroid hormone,CONNECTED_TO,1
+renal 25ohd 1 alpha hydroxylase,renal,CONNECTED_TO,1
+hormones like oxytocin,human,CONNECTED_TO,1
+cardiac,collagen,CONNECTED_TO,3
+cardiac,cardiovascular,CONNECTED_TO,14
+cardiac,human,CONNECTED_TO,47
+cardiac,patients,CONNECTED_TO,17
+cardiac,p53,CONNECTED_TO,2
+cardiac,serum,CONNECTED_TO,9
+cardiac,muscle,CONNECTED_TO,10
+cardiac,blood,CONNECTED_TO,14
+cardiac,glucose,CONNECTED_TO,6
+cardiac,skin,CONNECTED_TO,3
+cardiac,mitochondrial,CONNECTED_TO,18
+cardiac,calcium,CONNECTED_TO,9
+cardiac,plasma,CONNECTED_TO,8
+cardiac,kidney,CONNECTED_TO,18
+cardiac,heart,CONNECTED_TO,38
+cardiac,cell,CONNECTED_TO,25
+cardiac,renal,CONNECTED_TO,16
+cardiac,body,CONNECTED_TO,9
+cardiac,brain,CONNECTED_TO,11
+cardiac,fat,CONNECTED_TO,6
+cardiac,mice,CONNECTED_TO,25
+cardiac,cardiac pathology,CONNECTED_TO,1
+cardiac,ros,CONNECTED_TO,4
+cardiac,stem cell,CONNECTED_TO,3
+cardiac,vascular,CONNECTED_TO,11
+cardiac,tissue,CONNECTED_TO,8
+cardiac,liver,CONNECTED_TO,11
+cardiac,cellular,CONNECTED_TO,7
+cardiac,lung,CONNECTED_TO,9
+cardiac,tumor,CONNECTED_TO,3
+cardiac,cells,CONNECTED_TO,18
+cardiac,nuclear,CONNECTED_TO,2
+cardiac,endothelial cells,CONNECTED_TO,1
+cardiac,ecm,CONNECTED_TO,1
+cardiac,rat,CONNECTED_TO,5
+cardiac,lipid,CONNECTED_TO,4
+cardiac,stat3,CONNECTED_TO,1
+cardiac,chromatin,CONNECTED_TO,1
+cardiac,humans,CONNECTED_TO,8
+cardiac,gut,CONNECTED_TO,3
+cardiac,intestinal,CONNECTED_TO,3
+cardiac,neuronal,CONNECTED_TO,5
+cardiac,mouse,CONNECTED_TO,11
+cardiac,cardiomyocyte telomere,CONNECTED_TO,1
+cardiac,immune cells,CONNECTED_TO,1
+cardiac,egfr,CONNECTED_TO,5
+cardiac,gata4,CONNECTED_TO,29
+cardiac,rat hearts,CONNECTED_TO,1
+cardiac,hmgb1,CONNECTED_TO,1
+cardiac,fibroblasts,CONNECTED_TO,3
+cardiac,intracellular,CONNECTED_TO,3
+cardiac,serpine1,CONNECTED_TO,3
+cardiac,wnt,CONNECTED_TO,1
+collagen,fibroblasts,CONNECTED_TO,13
+collagen,human,CONNECTED_TO,40
+collagen,skin,CONNECTED_TO,43
+collagen,p53,CONNECTED_TO,4
+collagen,tumor,CONNECTED_TO,13
+collagen,cells,CONNECTED_TO,24
+collagen,blood,CONNECTED_TO,8
+collagen,stat3,CONNECTED_TO,2
+collagen,body,CONNECTED_TO,2
+collagen,serum,CONNECTED_TO,6
+collagen,ros,CONNECTED_TO,6
+collagen,mitochondrial,CONNECTED_TO,3
+collagen,cell,CONNECTED_TO,31
+collagen,lipid,CONNECTED_TO,5
+collagen,tnf,CONNECTED_TO,2
+collagen,mouse,CONNECTED_TO,9
+collagen,mice,CONNECTED_TO,18
+collagen,ecm,CONNECTED_TO,28
+collagen,calcium,CONNECTED_TO,2
+collagen,tissue,CONNECTED_TO,16
+collagen,cardiovascular,CONNECTED_TO,2
+collagen,muscle,CONNECTED_TO,4
+collagen,kidney,CONNECTED_TO,9
+collagen,renal,CONNECTED_TO,6
+collagen,cellular,CONNECTED_TO,7
+collagen,vascular,CONNECTED_TO,7
+collagen,patients,CONNECTED_TO,15
+collagen,glucose,CONNECTED_TO,8
+collagen,plasma,CONNECTED_TO,4
+collagen,rats,CONNECTED_TO,5
+collagen,rat,CONNECTED_TO,5
+collagen,brain,CONNECTED_TO,3
+collagen,stem cell,CONNECTED_TO,4
+collagen,wnt,CONNECTED_TO,6
+collagen,ral,CONNECTED_TO,1
+collagen,nuclear,CONNECTED_TO,1
+collagen,liver,CONNECTED_TO,7
+collagen,intestinal,CONNECTED_TO,4
+collagen,heart,CONNECTED_TO,4
+collagen,estrogen receptor α,CONNECTED_TO,1
+collagen,egfr,CONNECTED_TO,1
+collagen,endothelial cells,CONNECTED_TO,3
+collagen,chromatin,CONNECTED_TO,3
+collagen,humans,CONNECTED_TO,3
+collagen,lung,CONNECTED_TO,4
+collagen,intracellular,CONNECTED_TO,1
+collagen,neuronal,CONNECTED_TO,3
+collagen,hmgb1,CONNECTED_TO,3
+collagen,rna,CONNECTED_TO,3
+collagen,tumor cells,CONNECTED_TO,2
+collagen,cd4,CONNECTED_TO,1
+collagen,immune cells,CONNECTED_TO,1
+collagen,breast cancer,CONNECTED_TO,1
+collagen,gut,CONNECTED_TO,1
+collagen,serpine1,CONNECTED_TO,6
+collagen,gata4,CONNECTED_TO,1
+collagen,sphk1,CONNECTED_TO,4
+collagen,fat,CONNECTED_TO,1
+acetic acid,cells,CONNECTED_TO,1
+neural crest markers,human,CONNECTED_TO,1
+human monozygotic twins [25],serum,CONNECTED_TO,1
+"45,50",kidney,CONNECTED_TO,1
+"45,50",patients,CONNECTED_TO,1
+ubiquitin mutant).genes,human,CONNECTED_TO,1
+colonic mucosal dna,slc9a3,CONNECTED_TO,1
+colonic mucosal dna,bacteroides [41],CONNECTED_TO,1
+body lymphocyte,human,CONNECTED_TO,1
+human caloric,muscle,CONNECTED_TO,1
+human caloric,humans,CONNECTED_TO,1
+human caloric,human,CONNECTED_TO,1
+boui-jiou-tou,mouse,CONNECTED_TO,1
+boui-jiou-tou,human,CONNECTED_TO,1
+tumor cells,patients,CONNECTED_TO,15
+tumor cells,tumor,CONNECTED_TO,41
+tumor cells,blood,CONNECTED_TO,4
+tumor cells,plasma,CONNECTED_TO,3
+tumor cells,liver,CONNECTED_TO,7
+tumor cells,mice,CONNECTED_TO,6
+tumor cells,cells,CONNECTED_TO,43
+tumor cells,cell,CONNECTED_TO,46
+tumor cells,human,CONNECTED_TO,21
+tumor cells,renal,CONNECTED_TO,1
+tumor cells,mouse,CONNECTED_TO,10
+tumor cells,cellular,CONNECTED_TO,8
+tumor cells,immune cells,CONNECTED_TO,10
+tumor cells,intestinal,CONNECTED_TO,2
+tumor cells,ulk1 small-molecule,CONNECTED_TO,1
+tumor cells,p53,CONNECTED_TO,3
+tumor cells,lipid,CONNECTED_TO,2
+tumor cells,hmgb1,CONNECTED_TO,6
+tumor cells,nuclear,CONNECTED_TO,2
+tumor cells,breast cancer,CONNECTED_TO,10
+tumor cells,lung,CONNECTED_TO,14
+tumor cells,cd4,CONNECTED_TO,9
+tumor cells,vascular,CONNECTED_TO,2
+tumor cells,humans,CONNECTED_TO,2
+tumor cells,fibroblasts,CONNECTED_TO,4
+tumor cells,egfr,CONNECTED_TO,6
+tumor cells,brain,CONNECTED_TO,2
+tumor cells,stem cell,CONNECTED_TO,3
+tumor cells,neuronal,CONNECTED_TO,2
+tumor cells,wnt,CONNECTED_TO,2
+tumor cells,endothelial cells,CONNECTED_TO,2
+tumor cells,tissue,CONNECTED_TO,4
+tumor cells,gut,CONNECTED_TO,2
+tumor cells,body,CONNECTED_TO,3
+tumor cells,chromatin,CONNECTED_TO,2
+tumor cells,human nsclc cells,CONNECTED_TO,1
+tumor cells,rna,CONNECTED_TO,2
+tumor cells,intracellular,CONNECTED_TO,1
+tumor cells,skin,CONNECTED_TO,1
+tumor cells,heat shock proteins,CONNECTED_TO,1
+tumor cells,calcium,CONNECTED_TO,1
+tumor cells,heart,CONNECTED_TO,1
+tumor cells,glucose,CONNECTED_TO,3
+tumor cells,mitochondrial,CONNECTED_TO,1
+tumor cells,stat3,CONNECTED_TO,1
+protein-rich cellular membrane,humans,CONNECTED_TO,1
+human muscle biopsy,humans,CONNECTED_TO,1
+lung,liver,CONNECTED_TO,50
+lung,human,CONNECTED_TO,95
+lung,kidney,CONNECTED_TO,41
+lung,heart,CONNECTED_TO,28
+lung,rna,CONNECTED_TO,3
+lung,tissue,CONNECTED_TO,29
+lung,cell,CONNECTED_TO,63
+lung,brain,CONNECTED_TO,24
+lung,tumor,CONNECTED_TO,36
+lung,cells,CONNECTED_TO,59
+lung,cellular,CONNECTED_TO,17
+lung,mouse,CONNECTED_TO,39
+lung,mice,CONNECTED_TO,34
+lung,patients,CONNECTED_TO,31
+lung,wnt,CONNECTED_TO,1
+lung,hmgb1,CONNECTED_TO,8
+lung,ros,CONNECTED_TO,4
+lung,stem cell,CONNECTED_TO,5
+lung,renal,CONNECTED_TO,17
+lung,nuclear,CONNECTED_TO,3
+lung,endothelial cells,CONNECTED_TO,2
+lung,ecm,CONNECTED_TO,6
+lung,vascular,CONNECTED_TO,7
+lung,fat,CONNECTED_TO,5
+lung,calcium,CONNECTED_TO,5
+lung,cardiovascular,CONNECTED_TO,6
+lung,blood,CONNECTED_TO,24
+lung,skin,CONNECTED_TO,18
+lung,breast cancer,CONNECTED_TO,15
+lung,body,CONNECTED_TO,8
+lung,serum,CONNECTED_TO,10
+lung,fibroblasts,CONNECTED_TO,5
+lung,p53,CONNECTED_TO,5
+lung,mitochondrial,CONNECTED_TO,7
+lung,plasma,CONNECTED_TO,9
+lung,muscle,CONNECTED_TO,10
+lung,tnf,CONNECTED_TO,5
+lung,intestinal,CONNECTED_TO,9
+lung,neuronal,CONNECTED_TO,4
+lung,gut,CONNECTED_TO,6
+lung,glucose,CONNECTED_TO,7
+lung,cd4,CONNECTED_TO,9
+lung,lipid,CONNECTED_TO,3
+lung,egfr,CONNECTED_TO,7
+lung,immune cells,CONNECTED_TO,7
+lung,humans,CONNECTED_TO,8
+lung,rat,CONNECTED_TO,1
+lung,stat3,CONNECTED_TO,2
+lung,chromatin,CONNECTED_TO,5
+lung,gata4,CONNECTED_TO,3
+lung,intracellular,CONNECTED_TO,4
+lung,blood cancer,CONNECTED_TO,1
+lung,serpine1,CONNECTED_TO,7
+lung,sphk1,CONNECTED_TO,12
+lung,rats,CONNECTED_TO,1
+body,human,CONNECTED_TO,116
+body,p53,CONNECTED_TO,3
+body,tumor,CONNECTED_TO,12
+body,calcium,CONNECTED_TO,13
+body,blood,CONNECTED_TO,41
+body,intracellular,CONNECTED_TO,4
+body,cellular,CONNECTED_TO,13
+body,patients,CONNECTED_TO,39
+body,egfr,CONNECTED_TO,12
+body,mitochondrial,CONNECTED_TO,11
+body,liver,CONNECTED_TO,22
+body,cell,CONNECTED_TO,26
+body,lipid,CONNECTED_TO,15
+body,tnf,CONNECTED_TO,6
+body,brain,CONNECTED_TO,16
+body,neuronal,CONNECTED_TO,3
+body,muscle,CONNECTED_TO,37
+body,cardiovascular,CONNECTED_TO,18
+body,renal,CONNECTED_TO,21
+body,kidney,CONNECTED_TO,17
+body,heart,CONNECTED_TO,36
+body,serum,CONNECTED_TO,12
+body,glucose,CONNECTED_TO,24
+body,plasma,CONNECTED_TO,13
+body,fat,CONNECTED_TO,26
+body,fibroblasts,CONNECTED_TO,1
+body,cells,CONNECTED_TO,23
+body,stat3,CONNECTED_TO,2
+body,ros,CONNECTED_TO,1
+body,skin,CONNECTED_TO,11
+body,humans,CONNECTED_TO,10
+body,mice,CONNECTED_TO,35
+body,mouse,CONNECTED_TO,12
+body,tissue,CONNECTED_TO,20
+body,rat,CONNECTED_TO,2
+body,cd4,CONNECTED_TO,3
+body,vascular,CONNECTED_TO,8
+body,intestinal,CONNECTED_TO,11
+body,rna,CONNECTED_TO,4
+body,rats,CONNECTED_TO,9
+body,gut,CONNECTED_TO,24
+body,nuclear,CONNECTED_TO,4
+body,cardiac [,CONNECTED_TO,1
+body,immune cells,CONNECTED_TO,2
+body,hmgb1,CONNECTED_TO,1
+body,breast cancer,CONNECTED_TO,1
+body,stem cell,CONNECTED_TO,2
+non‐human primates,humans,CONNECTED_TO,1
+non‐human primates,neuronal,CONNECTED_TO,1
+sublingual fpp 4.5 g,skin,CONNECTED_TO,1
+sublingual fpp 4.5 g,human,CONNECTED_TO,1
+human nsclc cells,cell,CONNECTED_TO,1
+human nsclc cells,sirt2,CONNECTED_TO,1
+human nsclc cells,hmgb1,CONNECTED_TO,1
+human nsclc cells,sphk1,CONNECTED_TO,3
+a549 adenocarcinoma cells,human 143b osteosarcoma cells,CONNECTED_TO,1
+mouse transferrin,human,CONNECTED_TO,1
+embryonic kidney cells,cell,CONNECTED_TO,1
+human buccal tissue,tissue,CONNECTED_TO,1
+d5 dopamine receptor,human,CONNECTED_TO,1
+d5 dopamine receptor,blood,CONNECTED_TO,1
+saikosaponin b2,hypericin,CONNECTED_TO,1
+saikosaponin b2,nuclear,CONNECTED_TO,1
+liver,patients,CONNECTED_TO,29
+liver,cells,CONNECTED_TO,43
+liver,brain,CONNECTED_TO,54
+liver,heart,CONNECTED_TO,39
+liver,human,CONNECTED_TO,101
+liver,mouse,CONNECTED_TO,34
+liver,plasma,CONNECTED_TO,22
+liver,kidney,CONNECTED_TO,66
+liver,rna,CONNECTED_TO,7
+liver,tissue,CONNECTED_TO,25
+liver,p53,CONNECTED_TO,9
+liver,tumor,CONNECTED_TO,28
+liver,calcium,CONNECTED_TO,7
+liver,blood,CONNECTED_TO,38
+liver,intracellular,CONNECTED_TO,4
+liver,cellular,CONNECTED_TO,16
+liver,egfr,CONNECTED_TO,4
+liver,mitochondrial,CONNECTED_TO,17
+liver,cell,CONNECTED_TO,49
+liver,lipid,CONNECTED_TO,18
+liver,renal,CONNECTED_TO,20
+liver,rat,CONNECTED_TO,7
+liver,mice,CONNECTED_TO,58
+liver,rats,CONNECTED_TO,12
+liver,fat,CONNECTED_TO,16
+liver,muscle,CONNECTED_TO,21
+liver,serum,CONNECTED_TO,20
+liver,nuclear,CONNECTED_TO,4
+liver,immune cells,CONNECTED_TO,9
+liver,intestinal,CONNECTED_TO,18
+liver,cardiovascular,CONNECTED_TO,21
+liver,skin,CONNECTED_TO,20
+liver,breast cancer,CONNECTED_TO,10
+liver,chromatin,CONNECTED_TO,5
+liver,humans,CONNECTED_TO,6
+liver,ecm,CONNECTED_TO,4
+liver,20-22,CONNECTED_TO,1
+liver,20-25 human,CONNECTED_TO,1
+liver,ros,CONNECTED_TO,5
+liver,tnf,CONNECTED_TO,5
+liver,hmgb1,CONNECTED_TO,2
+liver,vascular,CONNECTED_TO,7
+liver,endothelial cells,CONNECTED_TO,7
+liver,gut,CONNECTED_TO,25
+liver,glucose,CONNECTED_TO,11
+liver,neuronal,CONNECTED_TO,4
+liver,stat3,CONNECTED_TO,5
+liver,fibroblasts,CONNECTED_TO,5
+liver,stem cell,CONNECTED_TO,3
+liver,cd4,CONNECTED_TO,5
+liver,gata4,CONNECTED_TO,5
+liver,serpine1,CONNECTED_TO,12
+liver,wnt,CONNECTED_TO,1
+liver,sphk1,CONNECTED_TO,12
+tissue levels.1,cellular,CONNECTED_TO,1
+tissue levels.1,cardiovascular,CONNECTED_TO,1
+tissue levels.1,platelet‐derived growth factor,CONNECTED_TO,1
+tissue levels.1,matrix metalloproteinase type,CONNECTED_TO,1
+(39).lipid,lipid,CONNECTED_TO,1
+human parathyroid hormone,renal,CONNECTED_TO,1
+drug-like,human,CONNECTED_TO,1
+p16 [18],cellular,CONNECTED_TO,1
+cortisone acetate,collagen fibres,CONNECTED_TO,1
+cortisone acetate,rats,CONNECTED_TO,1
+cortisone acetate,kidney,CONNECTED_TO,1
+mrp,human,CONNECTED_TO,1
+mrp,fibroblasts,CONNECTED_TO,1
+mrp,mouse,CONNECTED_TO,1
+mrp,cell,CONNECTED_TO,1
+non-dairy,mouse,CONNECTED_TO,1
+non-dairy,calcium,CONNECTED_TO,1
+ipf like smarca4,col18a1 [11],CONNECTED_TO,1
+mitochondrial nucleoid,non-respiratory protein supercomplexes 1,CONNECTED_TO,1
+mitochondrial nucleoid,non-respiratory protein supercomplexes,CONNECTED_TO,1
+mitochondrial nucleoid,mitochondrial,CONNECTED_TO,1
+mitochondrial nucleoid,non-respiratory protein supercomplex 5,CONNECTED_TO,1
+mitochondrial nucleoid,inner membrane,CONNECTED_TO,1
+human stem cell lines,chromatin,CONNECTED_TO,1
+la-related protein 1,5’-amp-activated protein kinase catalytic subunit,CONNECTED_TO,1
+la-related protein 1,gastrocnemius muscles.,CONNECTED_TO,1
+la-related protein 1,alpha-2,CONNECTED_TO,1
+la-related protein 1,soleus,CONNECTED_TO,1
+la-related protein 1,muscle-dependent,CONNECTED_TO,1
+la-related protein 1,larp1,CONNECTED_TO,1
+la-related protein 1,triceps,CONNECTED_TO,1
+human proximal renal tubular epithelial cells,renal,CONNECTED_TO,1
+"4,977-bp",lipid,CONNECTED_TO,1
+physostigmine,human,CONNECTED_TO,1
+physostigmine,cholinesterase inhibitor,CONNECTED_TO,1
+b-lymphoblast cell lines,human b-lymphocyte,CONNECTED_TO,1
+skin,human,CONNECTED_TO,90
+skin,cell,CONNECTED_TO,46
+skin,tissue,CONNECTED_TO,31
+skin,blood,CONNECTED_TO,33
+skin,mitochondrial,CONNECTED_TO,10
+skin,lipid,CONNECTED_TO,7
+skin,ecm,CONNECTED_TO,12
+skin,patients,CONNECTED_TO,22
+skin,p53,CONNECTED_TO,6
+skin,serum,CONNECTED_TO,4
+skin,muscle,CONNECTED_TO,16
+skin,glucose,CONNECTED_TO,5
+skin,calcium,CONNECTED_TO,7
+skin,plasma,CONNECTED_TO,4
+skin,brain,CONNECTED_TO,18
+skin,renal,CONNECTED_TO,4
+skin,vascular,CONNECTED_TO,3
+skin,tumor,CONNECTED_TO,12
+skin,fibroblasts,CONNECTED_TO,14
+skin,cells,CONNECTED_TO,26
+skin,stat3,CONNECTED_TO,2
+skin,ros,CONNECTED_TO,10
+skin,tnf,CONNECTED_TO,3
+skin,mice,CONNECTED_TO,30
+skin,cardiovascular,CONNECTED_TO,4
+skin,cellular,CONNECTED_TO,20
+skin,mouse,CONNECTED_TO,13
+skin,gut,CONNECTED_TO,16
+skin,kidney,CONNECTED_TO,16
+skin,immune cells,CONNECTED_TO,2
+skin,endothelial cells,CONNECTED_TO,3
+skin,stem cell,CONNECTED_TO,3
+skin,heart,CONNECTED_TO,10
+skin,breast cancer,CONNECTED_TO,2
+skin,humans,CONNECTED_TO,3
+skin,rna,CONNECTED_TO,3
+skin,intracellular,CONNECTED_TO,3
+skin,fat,CONNECTED_TO,6
+skin,egfr,CONNECTED_TO,2
+skin,gata4,CONNECTED_TO,2
+skin,hmgb1,CONNECTED_TO,4
+skin,neuronal,CONNECTED_TO,2
+skin,cd4,CONNECTED_TO,1
+skin,intestinal,CONNECTED_TO,4
+skin,nuclear,CONNECTED_TO,1
+skin,rat,CONNECTED_TO,1
+skin,serpine1,CONNECTED_TO,2
+skin,wnt,CONNECTED_TO,1
+skin,chromatin,CONNECTED_TO,1
+"1,2,2-trimethylpropyl methyl-phosphonofluoridate",human acetylcholinesterase,CONNECTED_TO,1
+coronary atherosclerotic,human,CONNECTED_TO,1
+coronary atherosclerotic,somatic mitochondrial,CONNECTED_TO,1
+aic,c-induced,CONNECTED_TO,1
+germ-line tissues,human,CONNECTED_TO,1
+human skeletal muscle fibers,mitochondrial,CONNECTED_TO,1
+vicinal hydroxyl,cu2,CONNECTED_TO,1
+human discs,cells,CONNECTED_TO,1
+human discs,cell,CONNECTED_TO,1
+mouse brains2,mouse embryotic stem cells,CONNECTED_TO,1
+mouse brains2,human,CONNECTED_TO,1
+non-respiratory protein supercomplexes,non-respiratory protein supercomplexes 1,CONNECTED_TO,1
+non-respiratory protein supercomplexes,mitochondrial,CONNECTED_TO,1
+non-respiratory protein supercomplexes,non-respiratory protein supercomplex 5,CONNECTED_TO,1
+non-respiratory protein supercomplexes,inner membrane,CONNECTED_TO,1
+cardiovascular,human,CONNECTED_TO,120
+cardiovascular,plasma,CONNECTED_TO,8
+cardiovascular,mitochondrial,CONNECTED_TO,12
+cardiovascular,kidney,CONNECTED_TO,19
+cardiovascular,brain,CONNECTED_TO,22
+cardiovascular,neuronal,CONNECTED_TO,5
+cardiovascular,blood,CONNECTED_TO,20
+cardiovascular,cellular,CONNECTED_TO,16
+cardiovascular,vascular,CONNECTED_TO,21
+cardiovascular,cell,CONNECTED_TO,21
+cardiovascular,heart,CONNECTED_TO,31
+cardiovascular,tissue,CONNECTED_TO,13
+cardiovascular,muscle,CONNECTED_TO,16
+cardiovascular,calcium,CONNECTED_TO,7
+cardiovascular,renal,CONNECTED_TO,19
+cardiovascular,serum,CONNECTED_TO,4
+cardiovascular,glucose,CONNECTED_TO,7
+cardiovascular,fat,CONNECTED_TO,4
+cardiovascular,lipid,CONNECTED_TO,10
+cardiovascular,gut,CONNECTED_TO,17
+cardiovascular,rats,CONNECTED_TO,3
+cardiovascular,patients,CONNECTED_TO,36
+cardiovascular,humans,CONNECTED_TO,9
+cardiovascular,endothelial cells,CONNECTED_TO,3
+cardiovascular,mouse,CONNECTED_TO,6
+cardiovascular,rat,CONNECTED_TO,2
+cardiovascular,breast cancer,CONNECTED_TO,4
+cardiovascular,tumor,CONNECTED_TO,5
+cardiovascular,mice,CONNECTED_TO,7
+cardiovascular,cells,CONNECTED_TO,5
+cardiovascular,chromatin,CONNECTED_TO,1
+cardiovascular,intestinal,CONNECTED_TO,4
+cardiovascular,immune cells,CONNECTED_TO,2
+cardiovascular,platelet‐derived growth factor,CONNECTED_TO,1
+cardiovascular,matrix metalloproteinase type,CONNECTED_TO,1
+cardiovascular,p53,CONNECTED_TO,2
+cardiovascular,stem cell,CONNECTED_TO,3
+cardiovascular,tnf,CONNECTED_TO,1
+cardiovascular,human tissues/cells,CONNECTED_TO,1
+cardiovascular,egfr,CONNECTED_TO,2
+cardiovascular,cd4,CONNECTED_TO,1
+cardiovascular,t‐lymphocyte,CONNECTED_TO,1
+cardiovascular,gata4,CONNECTED_TO,1
+cardiovascular,hmgb1,CONNECTED_TO,1
+cardiovascular,ros,CONNECTED_TO,2
+cardiovascular,intracellular,CONNECTED_TO,1
+cardiovascular,nuclear,CONNECTED_TO,1
+cardiac muscarinic receptor,human cardiac muscarinic receptor,CONNECTED_TO,1
+cardiac muscarinic receptor,baroreflex,CONNECTED_TO,1
+tat-beclin 1 peptide,vitamin d [354],CONNECTED_TO,1
+heterochromatin-specific,human,CONNECTED_TO,1
+nd5 protein,mitochondrial,CONNECTED_TO,1
+e.g.rapamycin,rapamycin-resistant,CONNECTED_TO,1
+human phospho-kinase,cells,CONNECTED_TO,2
+subcellular organelles,human,CONNECTED_TO,1
+subcellular organelles,mitochondrial,CONNECTED_TO,1
+subcellular organelles,cell,CONNECTED_TO,1
+subcellular organelles,intestinal,CONNECTED_TO,1
+mouse skin tissues,rat,CONNECTED_TO,1
+human ivd np cellswang,np cells,CONNECTED_TO,1
+human ivd np cellswang,mitochondrial,CONNECTED_TO,1
+human ivd np cellswang,human,CONNECTED_TO,1
+human ivd np cellswang,human ivd nucleus pulposus,CONNECTED_TO,1
+muscle,mouse,CONNECTED_TO,23
+muscle,human,CONNECTED_TO,162
+muscle,mice,CONNECTED_TO,45
+muscle,rna,CONNECTED_TO,3
+muscle,tissue,CONNECTED_TO,11
+muscle,cells,CONNECTED_TO,16
+muscle,neuronal,CONNECTED_TO,6
+muscle,cellular,CONNECTED_TO,25
+muscle,patients,CONNECTED_TO,30
+muscle,serum,CONNECTED_TO,7
+muscle,nuclear,CONNECTED_TO,4
+muscle,brain,CONNECTED_TO,18
+muscle,mitochondrial,CONNECTED_TO,36
+muscle,tumor,CONNECTED_TO,6
+muscle,blood,CONNECTED_TO,15
+muscle,p53,CONNECTED_TO,2
+muscle,glucose,CONNECTED_TO,15
+muscle,calcium,CONNECTED_TO,8
+muscle,plasma,CONNECTED_TO,7
+muscle,kidney,CONNECTED_TO,20
+muscle,heart,CONNECTED_TO,20
+muscle,cell,CONNECTED_TO,28
+muscle,renal,CONNECTED_TO,9
+muscle,fat,CONNECTED_TO,14
+muscle,humans,CONNECTED_TO,17
+muscle,vascular,CONNECTED_TO,6
+muscle,intestinal,CONNECTED_TO,2
+muscle,lipid,CONNECTED_TO,5
+muscle,ecm,CONNECTED_TO,2
+muscle,chromatin,CONNECTED_TO,1
+muscle,ros,CONNECTED_TO,1
+muscle,intracellular,CONNECTED_TO,2
+muscle,gut,CONNECTED_TO,12
+muscle,fibroblasts,CONNECTED_TO,2
+muscle,stat3,CONNECTED_TO,2
+muscle,endothelial cells,CONNECTED_TO,1
+muscle,tnf,CONNECTED_TO,4
+muscle,stem cell,CONNECTED_TO,1
+muscle,wnt,CONNECTED_TO,1
+muscle,rats,CONNECTED_TO,10
+muscle,cardiac [,CONNECTED_TO,1
+muscle,egfr,CONNECTED_TO,1
+muscle,rat,CONNECTED_TO,4
+muscle,human muscle cells,CONNECTED_TO,1
+muscle,immune cells,CONNECTED_TO,1
+muscle,cd4,CONNECTED_TO,1
+blood leukocyte,patients,CONNECTED_TO,2
+blood leukocyte,plasma,CONNECTED_TO,1
+tissue,patients,CONNECTED_TO,34
+tissue,tumor,CONNECTED_TO,32
+tissue,brain,CONNECTED_TO,17
+tissue,human,CONNECTED_TO,149
+tissue,cellular,CONNECTED_TO,54
+tissue,cells,CONNECTED_TO,78
+tissue,rna,CONNECTED_TO,8
+tissue,mice,CONNECTED_TO,36
+tissue,neuronal,CONNECTED_TO,7
+tissue,mouse,CONNECTED_TO,34
+tissue,serum,CONNECTED_TO,8
+tissue,nuclear,CONNECTED_TO,8
+tissue,intracellular,CONNECTED_TO,7
+tissue,ros,CONNECTED_TO,13
+tissue,rats,CONNECTED_TO,5
+tissue,cell,CONNECTED_TO,112
+tissue,lipid,CONNECTED_TO,5
+tissue,calcium,CONNECTED_TO,6
+tissue,kidney,CONNECTED_TO,14
+tissue,mitochondrial,CONNECTED_TO,15
+tissue,rat,CONNECTED_TO,7
+tissue,ecm,CONNECTED_TO,20
+tissue,hmgb1,CONNECTED_TO,8
+tissue,heart,CONNECTED_TO,12
+tissue,humans,CONNECTED_TO,10
+tissue,blood,CONNECTED_TO,18
+tissue,stem cell,CONNECTED_TO,14
+tissue,renal,CONNECTED_TO,11
+tissue,endothelial cells,CONNECTED_TO,6
+tissue,vascular,CONNECTED_TO,7
+tissue,fibroblasts,CONNECTED_TO,9
+tissue,glucose,CONNECTED_TO,5
+tissue,plasma,CONNECTED_TO,8
+tissue,chromatin,CONNECTED_TO,6
+tissue,intestinal,CONNECTED_TO,13
+tissue,breast cancer,CONNECTED_TO,6
+tissue,egfr,CONNECTED_TO,7
+tissue,p53,CONNECTED_TO,12
+tissue,immune cells,CONNECTED_TO,6
+tissue,tnf,CONNECTED_TO,4
+tissue,gut,CONNECTED_TO,14
+tissue,cd4,CONNECTED_TO,6
+tissue,wnt,CONNECTED_TO,2
+tissue,estrogen receptor α,CONNECTED_TO,1
+tissue,enamel surface,CONNECTED_TO,1
+tissue,serpine1,CONNECTED_TO,10
+tissue,gata4,CONNECTED_TO,5
+tissue,fat,CONNECTED_TO,3
+tissue,cardiac [,CONNECTED_TO,1
+tissue,stat3,CONNECTED_TO,3
+tissue,sphk1,CONNECTED_TO,4
+fibroblasts,rna,CONNECTED_TO,4
+fibroblasts,cell,CONNECTED_TO,32
+fibroblasts,brain,CONNECTED_TO,5
+fibroblasts,neuronal,CONNECTED_TO,3
+fibroblasts,heart,CONNECTED_TO,4
+fibroblasts,human,CONNECTED_TO,45
+fibroblasts,cells,CONNECTED_TO,32
+fibroblasts,cellular,CONNECTED_TO,12
+fibroblasts,p53,CONNECTED_TO,4
+fibroblasts,tumor,CONNECTED_TO,5
+fibroblasts,blood,CONNECTED_TO,4
+fibroblasts,stat3,CONNECTED_TO,1
+fibroblasts,serum,CONNECTED_TO,1
+fibroblasts,ros,CONNECTED_TO,3
+fibroblasts,mitochondrial,CONNECTED_TO,8
+fibroblasts,lipid,CONNECTED_TO,1
+fibroblasts,tnf,CONNECTED_TO,2
+fibroblasts,mouse,CONNECTED_TO,13
+fibroblasts,immune cells,CONNECTED_TO,11
+fibroblasts,mice,CONNECTED_TO,11
+fibroblasts,humans,CONNECTED_TO,5
+fibroblasts,patients,CONNECTED_TO,17
+fibroblasts,glucose,CONNECTED_TO,2
+fibroblasts,plasma,CONNECTED_TO,3
+fibroblasts,rats,CONNECTED_TO,1
+fibroblasts,ecm,CONNECTED_TO,7
+fibroblasts,vascular,CONNECTED_TO,3
+fibroblasts,wnt,CONNECTED_TO,2
+fibroblasts,kidney,CONNECTED_TO,3
+fibroblasts,stem cell,CONNECTED_TO,4
+fibroblasts,endothelial cells,CONNECTED_TO,11
+fibroblasts,breast cancer,CONNECTED_TO,3
+fibroblasts,egfr,CONNECTED_TO,2
+fibroblasts,nuclear,CONNECTED_TO,2
+fibroblasts,gut,CONNECTED_TO,1
+fibroblasts,cd4,CONNECTED_TO,4
+fibroblasts,intestinal,CONNECTED_TO,1
+fibroblasts,normal-matched fibroblasts,CONNECTED_TO,1
+fibroblasts,chromatin,CONNECTED_TO,1
+fibroblasts,gata4,CONNECTED_TO,6
+fibroblasts,rat,CONNECTED_TO,5
+fibroblasts,renal,CONNECTED_TO,1
+fibroblasts,serpine1,CONNECTED_TO,4
+fibroblasts,sphk1,CONNECTED_TO,2
+fibroblasts,calcium,CONNECTED_TO,1
+collagen fibres,rats,CONNECTED_TO,1
+collagen fibres,kidney,CONNECTED_TO,1
+telomere lengthening.the chorionic villi,chorionic villus,CONNECTED_TO,1
+telomere lengthening.the chorionic villi,human,CONNECTED_TO,1
+bafilomycin a1-treated cells,cells,CONNECTED_TO,1
+oro-gastric,human,CONNECTED_TO,1
+benign human solar keratosis,cells,CONNECTED_TO,1
+mouse lemurs,humans,CONNECTED_TO,1
+calcium,p53,CONNECTED_TO,6
+calcium,wnt,CONNECTED_TO,2
+calcium,blood,CONNECTED_TO,13
+calcium,chromatin,CONNECTED_TO,4
+calcium,gata4,CONNECTED_TO,7
+calcium,tumor,CONNECTED_TO,7
+calcium,intracellular,CONNECTED_TO,7
+calcium,cellular,CONNECTED_TO,7
+calcium,patients,CONNECTED_TO,15
+calcium,egfr,CONNECTED_TO,2
+calcium,mitochondrial,CONNECTED_TO,12
+calcium,cell,CONNECTED_TO,23
+calcium,lipid,CONNECTED_TO,5
+calcium,human,CONNECTED_TO,36
+calcium,tnf,CONNECTED_TO,3
+calcium,serum,CONNECTED_TO,6
+calcium,glucose,CONNECTED_TO,7
+calcium,plasma,CONNECTED_TO,6
+calcium,renal,CONNECTED_TO,6
+calcium,kidney,CONNECTED_TO,9
+calcium,heart,CONNECTED_TO,11
+calcium,brain,CONNECTED_TO,8
+calcium,fat,CONNECTED_TO,7
+calcium,mouse,CONNECTED_TO,4
+calcium,vascular,CONNECTED_TO,4
+calcium,mice,CONNECTED_TO,4
+calcium,cells,CONNECTED_TO,12
+calcium,rats,CONNECTED_TO,4
+calcium,stem cell,CONNECTED_TO,3
+calcium,nuclear,CONNECTED_TO,2
+calcium,ros,CONNECTED_TO,5
+calcium,humans,CONNECTED_TO,1
+calcium,rna,CONNECTED_TO,2
+calcium,neuronal,CONNECTED_TO,3
+calcium,hmgb1,CONNECTED_TO,3
+calcium,gut,CONNECTED_TO,3
+calcium,intestinal,CONNECTED_TO,1
+calcium,cd4,CONNECTED_TO,1
+calcium,rat,CONNECTED_TO,2
+calcium,serpine1,CONNECTED_TO,1
+calcium,sphk1,CONNECTED_TO,6
+calcium,endothelial cells,CONNECTED_TO,1
+calcium,breast cancer,CONNECTED_TO,1
+humans,mice,CONNECTED_TO,106
+humans,neuronal,CONNECTED_TO,12
+humans,human,CONNECTED_TO,207
+humans,cells,CONNECTED_TO,32
+humans,mouse,CONNECTED_TO,47
+humans,renal,CONNECTED_TO,1
+humans,patients,CONNECTED_TO,25
+humans,brain,CONNECTED_TO,26
+humans,blood,CONNECTED_TO,5
+humans,rna,CONNECTED_TO,2
+humans,cell,CONNECTED_TO,35
+humans,ros,CONNECTED_TO,3
+humans,lipid,CONNECTED_TO,3
+humans,cellular,CONNECTED_TO,16
+humans,gut,CONNECTED_TO,24
+humans,plasma,CONNECTED_TO,5
+humans,mitochondrial,CONNECTED_TO,10
+humans,tumor,CONNECTED_TO,8
+humans,heart,CONNECTED_TO,12
+humans,s-cone subtypes,CONNECTED_TO,1
+humans,serum,CONNECTED_TO,7
+humans,nuclear,CONNECTED_TO,3
+humans,soma,CONNECTED_TO,1
+humans,rats,CONNECTED_TO,16
+humans,glucose,CONNECTED_TO,4
+humans,wnt,CONNECTED_TO,2
+humans,kidney,CONNECTED_TO,3
+humans,vascular,CONNECTED_TO,5
+humans,fat,CONNECTED_TO,5
+humans,intracellular,CONNECTED_TO,1
+humans,intestinal,CONNECTED_TO,5
+humans,immune cells,CONNECTED_TO,2
+humans,cd4,CONNECTED_TO,3
+humans,stat3,CONNECTED_TO,1
+humans,breast cancer,CONNECTED_TO,1
+humans,rat,CONNECTED_TO,7
+humans,chondrosarcoma htb-94 cells,CONNECTED_TO,1
+humans,human knee articular chondrocytes,CONNECTED_TO,1
+humans,macrod2,CONNECTED_TO,1
+humans,gata4,CONNECTED_TO,5
+humans,xrcc6,CONNECTED_TO,1
+humans,stem cell,CONNECTED_TO,1
+humans,endothelial cells,CONNECTED_TO,1
+humans,chromatin,CONNECTED_TO,1
+humans,p53,CONNECTED_TO,1
+humans,egfr,CONNECTED_TO,2
+humans,serpine1,CONNECTED_TO,5
+milk phospholipids,autophagosome membrane,CONNECTED_TO,1
+human fetal lung fibroblasts,human,CONNECTED_TO,1
+stem cell,cellular,CONNECTED_TO,28
+stem cell,human,CONNECTED_TO,46
+stem cell,mitochondrial,CONNECTED_TO,29
+stem cell,mice,CONNECTED_TO,14
+stem cell,cells,CONNECTED_TO,27
+stem cell,mouse,CONNECTED_TO,9
+stem cell,cell,CONNECTED_TO,34
+stem cell,human lcs,CONNECTED_TO,1
+stem cell,tumor,CONNECTED_TO,10
+stem cell,renal,CONNECTED_TO,5
+stem cell,kidney,CONNECTED_TO,5
+stem cell,heart,CONNECTED_TO,3
+stem cell,nuclear,CONNECTED_TO,5
+stem cell,endothelial cells,CONNECTED_TO,3
+stem cell,ecm,CONNECTED_TO,4
+stem cell,vascular,CONNECTED_TO,5
+stem cell,rat,CONNECTED_TO,4
+stem cell,brain,CONNECTED_TO,4
+stem cell,lipid,CONNECTED_TO,1
+stem cell,blood,CONNECTED_TO,5
+stem cell,plasma,CONNECTED_TO,2
+stem cell,stat3,CONNECTED_TO,1
+stem cell,"[55,60]",CONNECTED_TO,1
+stem cell,p53,CONNECTED_TO,7
+stem cell,ros,CONNECTED_TO,4
+stem cell,intracellular,CONNECTED_TO,5
+stem cell,patients,CONNECTED_TO,11
+stem cell,immune cells,CONNECTED_TO,3
+stem cell,neuronal,CONNECTED_TO,6
+stem cell,wnt,CONNECTED_TO,8
+stem cell,rats,CONNECTED_TO,1
+stem cell,tnf,CONNECTED_TO,1
+stem cell,breast cancer,CONNECTED_TO,3
+stem cell,cd4,CONNECTED_TO,3
+stem cell,intestinal,CONNECTED_TO,6
+stem cell,rna,CONNECTED_TO,3
+stem cell,gata4,CONNECTED_TO,3
+stem cell,chromatin,CONNECTED_TO,3
+stem cell,gut,CONNECTED_TO,3
+stem cell,serum,CONNECTED_TO,1
+stem cell,glucose,CONNECTED_TO,1
+stem cell,serpine1,CONNECTED_TO,1
+ane,human,CONNECTED_TO,1
+ane,cells,CONNECTED_TO,1
+uas,human,CONNECTED_TO,1
+np cells,mitochondrial,CONNECTED_TO,1
+np cells,human,CONNECTED_TO,1
+np cells,human ivd nucleus pulposus,CONNECTED_TO,1
+rat,human,CONNECTED_TO,95
+rat,neuronal,CONNECTED_TO,7
+rat,mouse,CONNECTED_TO,52
+rat,mice,CONNECTED_TO,13
+rat,rats,CONNECTED_TO,15
+rat,kidney,CONNECTED_TO,8
+rat,brain,CONNECTED_TO,10
+rat,cell,CONNECTED_TO,20
+rat,hypothalamo-neurohypophyseal,CONNECTED_TO,1
+rat,lipid,CONNECTED_TO,3
+rat,blood,CONNECTED_TO,5
+rat,heart,CONNECTED_TO,8
+rat,cells,CONNECTED_TO,16
+rat,renal,CONNECTED_TO,5
+rat,plasma,CONNECTED_TO,5
+rat,stat3,CONNECTED_TO,2
+rat,vascular,CONNECTED_TO,5
+rat,serum,CONNECTED_TO,8
+rat,rna,CONNECTED_TO,6
+rat,serpine1,CONNECTED_TO,6
+rat,ros,CONNECTED_TO,6
+rat,patients,CONNECTED_TO,7
+rat,chromatin,CONNECTED_TO,2
+rat,nuclear,CONNECTED_TO,3
+rat,intestinal,CONNECTED_TO,7
+rat,gata4,CONNECTED_TO,21
+rat,mitochondrial,CONNECTED_TO,5
+rat,gut,CONNECTED_TO,6
+rat,p53,CONNECTED_TO,6
+rat,hmgb1,CONNECTED_TO,3
+rat,glucose,CONNECTED_TO,3
+rat,fat,CONNECTED_TO,1
+rat,tumor,CONNECTED_TO,2
+rat,intracellular,CONNECTED_TO,1
+rat,cellular,CONNECTED_TO,2
+rat,egfr,CONNECTED_TO,2
+rat,wnt,CONNECTED_TO,1
+rat,ecm,CONNECTED_TO,1
+rat,sphk1,CONNECTED_TO,2
+mice,mouse,CONNECTED_TO,133
+mice,patients,CONNECTED_TO,55
+mice,cell,CONNECTED_TO,139
+mice,brain,CONNECTED_TO,69
+mice,human,CONNECTED_TO,439
+mice,endothelial cells,CONNECTED_TO,11
+mice,cells,CONNECTED_TO,160
+mice,neuronal,CONNECTED_TO,22
+mice,cellular,CONNECTED_TO,40
+mice,rats,CONNECTED_TO,47
+mice,glucose,CONNECTED_TO,26
+mice,rna,CONNECTED_TO,13
+mice,serum,CONNECTED_TO,31
+mice,nuclear,CONNECTED_TO,6
+mice,blood,CONNECTED_TO,36
+mice,tumor,CONNECTED_TO,45
+mice,intracellular,CONNECTED_TO,10
+mice,ros,CONNECTED_TO,15
+mice,lipid,CONNECTED_TO,14
+mice,p53,CONNECTED_TO,20
+mice,plasma,CONNECTED_TO,18
+mice,kidney,CONNECTED_TO,32
+mice,gut,CONNECTED_TO,43
+mice,cardiac pathology,CONNECTED_TO,1
+mice,mitochondrial,CONNECTED_TO,42
+mice,renal,CONNECTED_TO,18
+mice,vascular,CONNECTED_TO,26
+mice,dbd,CONNECTED_TO,1
+mice,intestinal,CONNECTED_TO,24
+mice,heart,CONNECTED_TO,25
+mice,terc,CONNECTED_TO,1
+mice,stat3,CONNECTED_TO,5
+mice,wnt,CONNECTED_TO,10
+mice,immune cells,CONNECTED_TO,9
+mice,tnf,CONNECTED_TO,7
+mice,fibroblast growth factor-23,CONNECTED_TO,1
+mice,soma,CONNECTED_TO,1
+mice,chromatin,CONNECTED_TO,8
+mice,ecm,CONNECTED_TO,4
+mice,human bronchial cells,CONNECTED_TO,1
+mice,hmgb1,CONNECTED_TO,36
+mice,fat,CONNECTED_TO,16
+mice,egfr,CONNECTED_TO,4
+mice,breast cancer,CONNECTED_TO,4
+mice,chondrosarcoma htb-94 cells,CONNECTED_TO,1
+mice,human knee articular chondrocytes,CONNECTED_TO,1
+mice,cd4,CONNECTED_TO,9
+mice,whitehead,CONNECTED_TO,1
+mice,gata4,CONNECTED_TO,26
+mice,chromatin-associated protein ctcf (191,CONNECTED_TO,1
+mice,cardiac [,CONNECTED_TO,1
+mice,sperm telomere,CONNECTED_TO,1
+mice,mitochondrial sirt3,CONNECTED_TO,1
+mice,serpine1,CONNECTED_TO,7
+mice,sphk1,CONNECTED_TO,25
+psg −a placenta,human mesenchymal progenitor cells,CONNECTED_TO,1
+psg −a placenta,cellular,CONNECTED_TO,1
+cells,human,CONNECTED_TO,685
+cells,patients,CONNECTED_TO,111
+cells,brain,CONNECTED_TO,40
+cells,heart,CONNECTED_TO,14
+cells,mouse,CONNECTED_TO,152
+cells,plasma,CONNECTED_TO,20
+cells,cell,CONNECTED_TO,611
+cells,cd4,CONNECTED_TO,118
+cells,cellular,CONNECTED_TO,149
+cells,rna,CONNECTED_TO,23
+cells,neuronal,CONNECTED_TO,26
+cells,serum,CONNECTED_TO,19
+cells,nuclear,CONNECTED_TO,31
+cells,blood,CONNECTED_TO,45
+cells,mitochondrial,CONNECTED_TO,67
+cells,ros,CONNECTED_TO,32
+cells,vascular,CONNECTED_TO,22
+cells,rats,CONNECTED_TO,15
+cells,p53,CONNECTED_TO,41
+cells,tumor,CONNECTED_TO,123
+cells,stat3,CONNECTED_TO,17
+cells,lipid,CONNECTED_TO,11
+cells,tnf,CONNECTED_TO,15
+cells,tocotrienols,CONNECTED_TO,1
+cells,renal,CONNECTED_TO,17
+cells,kidney,CONNECTED_TO,35
+cells,cgas/sting/ifn,CONNECTED_TO,1
+cells,isolated cumulus cells,CONNECTED_TO,1
+cells,human fibroblast,CONNECTED_TO,1
+cells,fatty acid β,CONNECTED_TO,1
+cells,wnt,CONNECTED_TO,12
+cells,immune cells,CONNECTED_TO,53
+cells,glucose,CONNECTED_TO,16
+cells,nucleotide base,CONNECTED_TO,1
+cells,chromatin,CONNECTED_TO,35
+cells,intracellular,CONNECTED_TO,27
+cells,endothelial cells,CONNECTED_TO,13
+cells,ecm,CONNECTED_TO,25
+cells,intestinal,CONNECTED_TO,22
+cells,human mitochondrial serine,CONNECTED_TO,1
+cells,egfr,CONNECTED_TO,18
+cells,human ivd nucleus pulposus,CONNECTED_TO,2
+cells,breast cancer,CONNECTED_TO,21
+cells,cervical cancer cells,CONNECTED_TO,1
+cells,hmgb1,CONNECTED_TO,61
+cells,senescence‐associated β‐galactosidase,CONNECTED_TO,1
+cells,human wi‐38 cells stably,CONNECTED_TO,1
+cells,fat,CONNECTED_TO,6
+cells,gut,CONNECTED_TO,31
+cells,hc telomeres,CONNECTED_TO,1
+cells,human muscle cells,CONNECTED_TO,1
+cells,serpine1,CONNECTED_TO,39
+cells,non-collagen,CONNECTED_TO,1
+cells,alveolar bone,CONNECTED_TO,1
+cells,gata4,CONNECTED_TO,62
+cells,erk 1/2,CONNECTED_TO,1
+cells,jejunal sections,CONNECTED_TO,1
+cells,cell fate-determining,CONNECTED_TO,1
+cells,human pc tissues,CONNECTED_TO,1
+cells,membrane rafts,CONNECTED_TO,1
+cells,sphk1,CONNECTED_TO,40
+cells,osk,CONNECTED_TO,1
+human cardiac muscarinic receptor,baroreflex,CONNECTED_TO,1
+human fibroblast,serum,CONNECTED_TO,1
+human fibroblast,gata4,CONNECTED_TO,1
+human fibroblast,chromatin,CONNECTED_TO,1
+human fibroblast,blood,CONNECTED_TO,1
+human fibroblast,cellular,CONNECTED_TO,1
+human bone marrow stromal cells,ecm,CONNECTED_TO,1
+gastric lipases,lipid,CONNECTED_TO,1
+gastric lipases,gut,CONNECTED_TO,1
+syt2,synaptotagmin-2,CONNECTED_TO,1
+syt2,myb1 membrane,CONNECTED_TO,1
+neuronal,mouse,CONNECTED_TO,21
+neuronal,peripheral human tissues,CONNECTED_TO,1
+neuronal,human,CONNECTED_TO,64
+neuronal,rna,CONNECTED_TO,3
+neuronal,cell,CONNECTED_TO,44
+neuronal,brain,CONNECTED_TO,49
+neuronal,cellular,CONNECTED_TO,18
+neuronal,patients,CONNECTED_TO,15
+neuronal,serum,CONNECTED_TO,3
+neuronal,nuclear,CONNECTED_TO,10
+neuronal,blood,CONNECTED_TO,6
+neuronal,mitochondrial,CONNECTED_TO,18
+neuronal,vascular,CONNECTED_TO,10
+neuronal,tumor,CONNECTED_TO,8
+neuronal,intracellular,CONNECTED_TO,5
+neuronal,ros,CONNECTED_TO,5
+neuronal,rats,CONNECTED_TO,4
+neuronal,lipid,CONNECTED_TO,5
+neuronal,glucose,CONNECTED_TO,2
+neuronal,plasma,CONNECTED_TO,6
+neuronal,nucleotide base,CONNECTED_TO,1
+neuronal,p53,CONNECTED_TO,5
+neuronal,motoneurons,CONNECTED_TO,1
+neuronal,immune cells,CONNECTED_TO,3
+neuronal,renal,CONNECTED_TO,3
+neuronal,kidney,CONNECTED_TO,4
+neuronal,gut,CONNECTED_TO,6
+neuronal,heart,CONNECTED_TO,3
+neuronal,wnt,CONNECTED_TO,5
+neuronal,endothelial cells,CONNECTED_TO,2
+neuronal,intestinal,CONNECTED_TO,1
+neuronal,tnf,CONNECTED_TO,2
+neuronal,chromatin,CONNECTED_TO,2
+neuronal,hmgb1,CONNECTED_TO,3
+neuronal,protocadherin,CONNECTED_TO,1
+neuronal,egfr,CONNECTED_TO,1
+neuronal,stat3,CONNECTED_TO,1
+neuronal,breast cancer,CONNECTED_TO,1
+neuronal,ecm,CONNECTED_TO,3
+neuronal,cd4,CONNECTED_TO,1
+neuronal,serpine1,CONNECTED_TO,2
+neuronal,sphk1,CONNECTED_TO,1
+gastrointestinal pathology,human gastrointestinal barrier,CONNECTED_TO,1
+gastrointestinal pathology,gut,CONNECTED_TO,1
+human lifespans,cellular,CONNECTED_TO,1
+human lifespans,gut,CONNECTED_TO,1
+cb1 peripheral blockers,fxr/tgr5,CONNECTED_TO,1
+protocadherin,human,CONNECTED_TO,1
+larp1,5’-amp-activated protein kinase catalytic subunit,CONNECTED_TO,1
+larp1,gastrocnemius muscles.,CONNECTED_TO,1
+larp1,alpha-2,CONNECTED_TO,1
+larp1,soleus,CONNECTED_TO,1
+larp1,muscle-dependent,CONNECTED_TO,1
+larp1,triceps,CONNECTED_TO,1
+renal,human,CONNECTED_TO,44
+renal,cellular,CONNECTED_TO,8
+renal,mouse,CONNECTED_TO,11
+renal,blood,CONNECTED_TO,16
+renal,breast cancer,CONNECTED_TO,2
+renal,kidney,CONNECTED_TO,36
+renal,heart,CONNECTED_TO,17
+renal,serum,CONNECTED_TO,13
+renal,glucose,CONNECTED_TO,10
+renal,plasma,CONNECTED_TO,9
+renal,cell,CONNECTED_TO,25
+renal,brain,CONNECTED_TO,17
+renal,fat,CONNECTED_TO,8
+renal,patients,CONNECTED_TO,30
+renal,vascular,CONNECTED_TO,14
+renal,p53,CONNECTED_TO,4
+renal,mitochondrial,CONNECTED_TO,11
+renal,cd4,CONNECTED_TO,2
+renal,tumor,CONNECTED_TO,3
+renal,nuclear,CONNECTED_TO,4
+renal,endothelial cells,CONNECTED_TO,2
+renal,ecm,CONNECTED_TO,2
+renal,immune cells,CONNECTED_TO,1
+renal,intestinal,CONNECTED_TO,3
+renal,lipid,CONNECTED_TO,6
+renal,stat3,CONNECTED_TO,2
+renal,rats,CONNECTED_TO,7
+renal,gut,CONNECTED_TO,6
+renal,ros,CONNECTED_TO,3
+renal,wnt,CONNECTED_TO,1
+renal,tnf,CONNECTED_TO,1
+renal,egfr,CONNECTED_TO,2
+renal,chromatin,CONNECTED_TO,1
+renal,cardiac [,CONNECTED_TO,1
+renal,hmgb1,CONNECTED_TO,1
+renal,intracellular,CONNECTED_TO,2
+human ivd nucleus pulposus,mitochondrial,CONNECTED_TO,1
+human ivd nucleus pulposus,human,CONNECTED_TO,1
+human ivd nucleus pulposus,p53,CONNECTED_TO,1
+kidney,heart,CONNECTED_TO,39
+kidney,rna,CONNECTED_TO,3
+kidney,human,CONNECTED_TO,61
+kidney,rats,CONNECTED_TO,14
+kidney,mitochondrial,CONNECTED_TO,13
+kidney,brain,CONNECTED_TO,33
+kidney,mouse,CONNECTED_TO,21
+kidney,blood,CONNECTED_TO,24
+kidney,serum,CONNECTED_TO,15
+kidney,glucose,CONNECTED_TO,11
+kidney,cell,CONNECTED_TO,38
+kidney,plasma,CONNECTED_TO,15
+kidney,fat,CONNECTED_TO,9
+kidney,cellular,CONNECTED_TO,14
+kidney,vascular,CONNECTED_TO,11
+kidney,patients,CONNECTED_TO,27
+kidney,lipid,CONNECTED_TO,7
+kidney,cd4,CONNECTED_TO,5
+kidney,tumor,CONNECTED_TO,5
+kidney,nuclear,CONNECTED_TO,4
+kidney,endothelial cells,CONNECTED_TO,2
+kidney,ecm,CONNECTED_TO,1
+kidney,stat3,CONNECTED_TO,2
+kidney,breast cancer,CONNECTED_TO,2
+kidney,human proximal renal tubular epithelial cells [19],CONNECTED_TO,1
+kidney,ros,CONNECTED_TO,3
+kidney,p53,CONNECTED_TO,3
+kidney,gut,CONNECTED_TO,10
+kidney,immune cells,CONNECTED_TO,2
+kidney,intestinal,CONNECTED_TO,6
+kidney,wnt,CONNECTED_TO,3
+kidney,tnf,CONNECTED_TO,1
+kidney,chromatin,CONNECTED_TO,1
+kidney,egfr,CONNECTED_TO,7
+kidney,hmgb1,CONNECTED_TO,2
+kidney,intracellular,CONNECTED_TO,1
+kidney,serpine1,CONNECTED_TO,5
+kidney,sphk1,CONNECTED_TO,1
+fibroblast growth factor-23,cellular,CONNECTED_TO,1
+fibroblast growth factor-23,p53,CONNECTED_TO,1
+human mesenchymal progenitor cells,cellular,CONNECTED_TO,1
+sasp-associated factors,blood,CONNECTED_TO,1
+sasp-associated factors,human,CONNECTED_TO,1
+embryonic stem cell-specific) protein,human,CONNECTED_TO,1
+human bronchial cells,hmgb1,CONNECTED_TO,1
+fibroblast growth factor 8,gata4,CONNECTED_TO,1
+human retinal microvascular endothelial cells,glucose,CONNECTED_TO,1
+cellular,human,CONNECTED_TO,258
+cellular,p53,CONNECTED_TO,17
+cellular,tumor,CONNECTED_TO,48
+cellular,blood,CONNECTED_TO,17
+cellular,intracellular,CONNECTED_TO,20
+cellular,patients,CONNECTED_TO,47
+cellular,egfr,CONNECTED_TO,4
+cellular,mitochondrial,CONNECTED_TO,101
+cellular,cell,CONNECTED_TO,181
+cellular,lipid,CONNECTED_TO,18
+cellular,brain,CONNECTED_TO,30
+cellular,rna,CONNECTED_TO,13
+cellular,mouse,CONNECTED_TO,47
+cellular,serum,CONNECTED_TO,10
+cellular,nuclear,CONNECTED_TO,19
+cellular,vascular,CONNECTED_TO,17
+cellular,ros,CONNECTED_TO,25
+cellular,rats,CONNECTED_TO,6
+cellular,plasma,CONNECTED_TO,6
+cellular,human articular cartilage tissues,CONNECTED_TO,1
+cellular,tocotrienols,CONNECTED_TO,1
+cellular,heart,CONNECTED_TO,13
+cellular,b-galactosidase,CONNECTED_TO,1
+cellular,endothelial cells,CONNECTED_TO,8
+cellular,telomere-proximal,CONNECTED_TO,1
+cellular,ecm,CONNECTED_TO,9
+cellular,diploid cell,CONNECTED_TO,1
+cellular,human embryonic fibroblasts,CONNECTED_TO,1
+cellular,5-methyldeoxycytidine,CONNECTED_TO,1
+cellular,immune cells,CONNECTED_TO,19
+cellular,intestinal,CONNECTED_TO,4
+cellular,glucose,CONNECTED_TO,12
+cellular,chromatin,CONNECTED_TO,14
+cellular,breast cancer,CONNECTED_TO,6
+cellular,cellular lipid,CONNECTED_TO,1
+cellular,lds,CONNECTED_TO,1
+cellular,ck2,CONNECTED_TO,1
+cellular,autophagy-related gene 8a,CONNECTED_TO,1
+cellular,human lc3,CONNECTED_TO,1
+cellular,cd4,CONNECTED_TO,11
+cellular,platelet‐derived growth factor,CONNECTED_TO,1
+cellular,matrix metalloproteinase type,CONNECTED_TO,1
+cellular,senescence‐associated β‐galactosidase,CONNECTED_TO,1
+cellular,human wi‐38 cells stably,CONNECTED_TO,1
+cellular,von zglinicki,CONNECTED_TO,1
+cellular,human telomere,CONNECTED_TO,1
+cellular,stat3,CONNECTED_TO,5
+cellular,wnt,CONNECTED_TO,11
+cellular,tnf,CONNECTED_TO,7
+cellular,gut,CONNECTED_TO,7
+cellular,macrod2,CONNECTED_TO,1
+cellular,nasal cell,CONNECTED_TO,1
+cellular,gata4,CONNECTED_TO,10
+cellular,hmgb1,CONNECTED_TO,9
+cellular,jejunal sections,CONNECTED_TO,1
+cellular,cell fate-determining,CONNECTED_TO,1
+cellular,human profilin-1,CONNECTED_TO,1
+cellular,human longevity-specific,CONNECTED_TO,1
+cellular,juglone,CONNECTED_TO,2
+cellular,alveolar bone,CONNECTED_TO,1
+cellular,proteinopathies,CONNECTED_TO,1
+cellular,serpine1,CONNECTED_TO,6
+cellular,sphk1,CONNECTED_TO,9
+oocyte nucleus,human,CONNECTED_TO,1
+dbd,vascular,CONNECTED_TO,1
+human bone [,bones [,CONNECTED_TO,1
+cell fate-determining,jejunal sections,CONNECTED_TO,1
+salivary-,gut-,CONNECTED_TO,3
+lancl2,egfr,CONNECTED_TO,1
+bm-msc,human,CONNECTED_TO,1
+heart,patients,CONNECTED_TO,38
+heart,brain,CONNECTED_TO,30
+heart,human,CONNECTED_TO,106
+heart,mouse,CONNECTED_TO,20
+heart,plasma,CONNECTED_TO,11
+heart,rna,CONNECTED_TO,5
+heart,cell,CONNECTED_TO,26
+heart,tumor,CONNECTED_TO,13
+heart,blood,CONNECTED_TO,28
+heart,serum,CONNECTED_TO,10
+heart,glucose,CONNECTED_TO,10
+heart,fat,CONNECTED_TO,6
+heart,tnf,CONNECTED_TO,2
+heart,ros,CONNECTED_TO,5
+heart,stat3,CONNECTED_TO,3
+heart,chromatin,CONNECTED_TO,4
+heart,nuclear,CONNECTED_TO,7
+heart,endothelial cells,CONNECTED_TO,2
+heart,ecm,CONNECTED_TO,2
+heart,vascular,CONNECTED_TO,11
+heart,breast cancer,CONNECTED_TO,4
+heart,mitochondrial,CONNECTED_TO,13
+heart,p53,CONNECTED_TO,2
+heart,gut,CONNECTED_TO,8
+heart,wnt,CONNECTED_TO,3
+heart,rats,CONNECTED_TO,7
+heart,immune cells,CONNECTED_TO,3
+heart,egfr,CONNECTED_TO,15
+heart,lipid,CONNECTED_TO,4
+heart,gata4,CONNECTED_TO,39
+heart,cardiac actin,CONNECTED_TO,1
+heart,"mhc expressions,88",CONNECTED_TO,1
+heart,hmgb1,CONNECTED_TO,2
+heart,intracellular,CONNECTED_TO,1
+heart,intestinal,CONNECTED_TO,2
+heart,rat hearts,CONNECTED_TO,2
+heart,serpine1,CONNECTED_TO,3
+t‐lymphocyte,cd4,CONNECTED_TO,1
+nuclear,human,CONNECTED_TO,34
+nuclear,rna,CONNECTED_TO,5
+nuclear,mouse,CONNECTED_TO,4
+nuclear,patients,CONNECTED_TO,12
+nuclear,serum,CONNECTED_TO,2
+nuclear,brain,CONNECTED_TO,8
+nuclear,mitochondrial,CONNECTED_TO,29
+nuclear,cd4,CONNECTED_TO,4
+nuclear,p53,CONNECTED_TO,9
+nuclear,tumor,CONNECTED_TO,14
+nuclear,endothelial cells,CONNECTED_TO,5
+nuclear,lipid,CONNECTED_TO,4
+nuclear,ecm,CONNECTED_TO,2
+nuclear,vascular,CONNECTED_TO,4
+nuclear,cell,CONNECTED_TO,31
+nuclear,immune cells,CONNECTED_TO,2
+nuclear,egfr,CONNECTED_TO,2
+nuclear,ros,CONNECTED_TO,8
+nuclear,hypericin,CONNECTED_TO,1
+nuclear,tnf,CONNECTED_TO,5
+nuclear,blood,CONNECTED_TO,1
+nuclear,fat,CONNECTED_TO,1
+nuclear,intestinal,CONNECTED_TO,1
+nuclear,chromatin,CONNECTED_TO,6
+nuclear,methionine sulfoxide reductase b3 (msrb3) genes,CONNECTED_TO,1
+nuclear,gata4,CONNECTED_TO,1
+nuclear,glucose,CONNECTED_TO,2
+nuclear,wnt,CONNECTED_TO,4
+nuclear,gut,CONNECTED_TO,3
+nuclear,hmgb1,CONNECTED_TO,10
+nuclear,stat3,CONNECTED_TO,2
+nuclear,breast cancer,CONNECTED_TO,2
+nuclear,cytochrome c oxidase subunit 1,CONNECTED_TO,1
+nuclear,co-activator 1α,CONNECTED_TO,1
+nuclear,rats,CONNECTED_TO,1
+nuclear,intracellular,CONNECTED_TO,1
+nuclear,sphk1,CONNECTED_TO,1
+transforming growth factor (tgf)-beta,cell,CONNECTED_TO,1
+txn,human txn,CONNECTED_TO,1
+endothelial cells,human,CONNECTED_TO,24
+endothelial cells,vascular,CONNECTED_TO,8
+endothelial cells,p53,CONNECTED_TO,3
+endothelial cells,mouse,CONNECTED_TO,10
+endothelial cells,cell,CONNECTED_TO,21
+endothelial cells,tumor,CONNECTED_TO,6
+endothelial cells,ecm,CONNECTED_TO,4
+endothelial cells,soleus,CONNECTED_TO,1
+endothelial cells,ros,CONNECTED_TO,4
+endothelial cells,brain,CONNECTED_TO,5
+endothelial cells,patients,CONNECTED_TO,6
+endothelial cells,mitochondrial,CONNECTED_TO,2
+endothelial cells,rats,CONNECTED_TO,2
+endothelial cells,blood,CONNECTED_TO,6
+endothelial cells,serum,CONNECTED_TO,1
+endothelial cells,egfr,CONNECTED_TO,2
+endothelial cells,plasma,CONNECTED_TO,1
+endothelial cells,glucose,CONNECTED_TO,2
+endothelial cells,fat,CONNECTED_TO,1
+endothelial cells,lipid,CONNECTED_TO,3
+endothelial cells,tnf,CONNECTED_TO,2
+endothelial cells,wnt,CONNECTED_TO,2
+endothelial cells,chromatin,CONNECTED_TO,1
+endothelial cells,gata4,CONNECTED_TO,4
+endothelial cells,cd4,CONNECTED_TO,2
+endothelial cells,hmgb1,CONNECTED_TO,1
+endothelial cells,immune cells,CONNECTED_TO,8
+endothelial cells,rna,CONNECTED_TO,2
+endothelial cells,intestinal,CONNECTED_TO,1
+endothelial cells,gut,CONNECTED_TO,1
+endothelial cells,intracellular,CONNECTED_TO,1
+endothelial cells,serpine1,CONNECTED_TO,6
+endothelial cells,stat3,CONNECTED_TO,1
+endothelial cells,sphk1,CONNECTED_TO,3
+endothelial cells,breast cancer,CONNECTED_TO,1
+pc cells,langerhans islet cells,CONNECTED_TO,1
+perikaryal,human dorsal root sensory,CONNECTED_TO,1
+human brain-specific,brain,CONNECTED_TO,1
+glucose,brain,CONNECTED_TO,11
+glucose,human,CONNECTED_TO,52
+glucose,patients,CONNECTED_TO,15
+glucose,serum,CONNECTED_TO,11
+glucose,plasma,CONNECTED_TO,8
+glucose,p53,CONNECTED_TO,2
+glucose,blood,CONNECTED_TO,20
+glucose,mitochondrial,CONNECTED_TO,14
+glucose,cell,CONNECTED_TO,26
+glucose,fat,CONNECTED_TO,11
+glucose,vascular,CONNECTED_TO,7
+glucose,tumor,CONNECTED_TO,7
+glucose,nfe2l2,CONNECTED_TO,1
+glucose,mouse,CONNECTED_TO,14
+glucose,lipid,CONNECTED_TO,18
+glucose,rats,CONNECTED_TO,8
+glucose,ecm,CONNECTED_TO,4
+glucose,ros,CONNECTED_TO,1
+glucose,rna,CONNECTED_TO,3
+glucose,intestinal,CONNECTED_TO,6
+glucose,intracellular,CONNECTED_TO,6
+glucose,gut,CONNECTED_TO,13
+glucose,immune cells,CONNECTED_TO,4
+glucose,wnt,CONNECTED_TO,2
+glucose,gata4,CONNECTED_TO,1
+glucose,cd4,CONNECTED_TO,2
+glucose,hmgb1,CONNECTED_TO,6
+glucose,egfr,CONNECTED_TO,3
+glucose,breast cancer,CONNECTED_TO,3
+glucose,serpine1,CONNECTED_TO,1
+glucose,sphk1,CONNECTED_TO,3
+glucose,chromatin,CONNECTED_TO,2
+egfr,p53,CONNECTED_TO,3
+egfr,tumor,CONNECTED_TO,19
+egfr,blood,CONNECTED_TO,5
+egfr,intracellular,CONNECTED_TO,2
+egfr,patients,CONNECTED_TO,11
+egfr,mitochondrial,CONNECTED_TO,2
+egfr,cell,CONNECTED_TO,24
+egfr,lipid,CONNECTED_TO,2
+egfr,human,CONNECTED_TO,9
+egfr,fat,CONNECTED_TO,2
+egfr,stat3,CONNECTED_TO,10
+egfr,rna,CONNECTED_TO,1
+egfr,mouse,CONNECTED_TO,5
+egfr,breast cancer,CONNECTED_TO,8
+egfr,serum,CONNECTED_TO,2
+egfr,plasma,CONNECTED_TO,3
+egfr,immune cells,CONNECTED_TO,4
+egfr,brain,CONNECTED_TO,3
+egfr,tnf,CONNECTED_TO,2
+egfr,vascular,CONNECTED_TO,3
+egfr,hmgb1,CONNECTED_TO,2
+egfr,wnt,CONNECTED_TO,3
+egfr,gut,CONNECTED_TO,2
+egfr,intestinal,CONNECTED_TO,2
+egfr,serpine1,CONNECTED_TO,6
+egfr,ros,CONNECTED_TO,2
+egfr,gata4,CONNECTED_TO,1
+egfr,sphk1,CONNECTED_TO,6
+egfr,chromatin,CONNECTED_TO,1
+egfr,ecm,CONNECTED_TO,1
+egfr,cd4,CONNECTED_TO,1
+ros,tumor,CONNECTED_TO,8
+ros,intracellular,CONNECTED_TO,7
+ros,mouse,CONNECTED_TO,10
+ros,human,CONNECTED_TO,39
+ros,rats,CONNECTED_TO,3
+ros,cell,CONNECTED_TO,38
+ros,brain,CONNECTED_TO,10
+ros,lipid,CONNECTED_TO,11
+ros,rna,CONNECTED_TO,1
+ros,p53,CONNECTED_TO,13
+ros,blood,CONNECTED_TO,3
+ros,stat3,CONNECTED_TO,3
+ros,serum,CONNECTED_TO,3
+ros,mitochondrial,CONNECTED_TO,29
+ros,tnf,CONNECTED_TO,8
+ros,rat hearts,CONNECTED_TO,1
+ros,patients,CONNECTED_TO,5
+ros,hmgb1,CONNECTED_TO,8
+ros,ecm,CONNECTED_TO,3
+ros,intestinal,CONNECTED_TO,4
+ros,gata4,CONNECTED_TO,1
+ros,gut,CONNECTED_TO,4
+ros,immune cells,CONNECTED_TO,2
+ros,cd4,CONNECTED_TO,3
+ros,vascular,CONNECTED_TO,2
+ros,serpine1,CONNECTED_TO,1
+ros,chromatin,CONNECTED_TO,3
+ros,wnt,CONNECTED_TO,1
+human smsc,patients,CONNECTED_TO,1
+human smsc,hmgb1,CONNECTED_TO,1
+human prostate tissues,rats,CONNECTED_TO,1
+ecm,serum,CONNECTED_TO,1
+ecm,human,CONNECTED_TO,19
+ecm,cell,CONNECTED_TO,29
+ecm,lipid,CONNECTED_TO,2
+ecm,vascular,CONNECTED_TO,4
+ecm,tumor,CONNECTED_TO,5
+ecm,patients,CONNECTED_TO,8
+ecm,mitochondrial,CONNECTED_TO,3
+ecm,plasma,CONNECTED_TO,3
+ecm,rats,CONNECTED_TO,2
+ecm,p53,CONNECTED_TO,2
+ecm,mouse,CONNECTED_TO,12
+ecm,immune cells,CONNECTED_TO,1
+ecm,serpine1,CONNECTED_TO,7
+ecm,tnf,CONNECTED_TO,2
+ecm,non-collagen,CONNECTED_TO,1
+ecm,gut,CONNECTED_TO,4
+ecm,intracellular,CONNECTED_TO,4
+ecm,wnt,CONNECTED_TO,4
+ecm,breast cancer,CONNECTED_TO,3
+ecm,blood,CONNECTED_TO,2
+ecm,rna,CONNECTED_TO,1
+ecm,hmgb1,CONNECTED_TO,1
+ecm,brain,CONNECTED_TO,2
+ecm,intestinal,CONNECTED_TO,1
+ecm,chromatin,CONNECTED_TO,2
+vascular,mouse,CONNECTED_TO,20
+vascular,human,CONNECTED_TO,61
+vascular,blood,CONNECTED_TO,24
+vascular,mitochondrial,CONNECTED_TO,11
+vascular,cell,CONNECTED_TO,33
+vascular,brain,CONNECTED_TO,20
+vascular,patients,CONNECTED_TO,27
+vascular,serum,CONNECTED_TO,7
+vascular,cd4,CONNECTED_TO,3
+vascular,gut,CONNECTED_TO,5
+vascular,tnf,CONNECTED_TO,3
+vascular,rats,CONNECTED_TO,8
+vascular,plasma,CONNECTED_TO,10
+vascular,immune cells,CONNECTED_TO,2
+vascular,tumor,CONNECTED_TO,11
+vascular,lipid,CONNECTED_TO,6
+vascular,stat3,CONNECTED_TO,1
+vascular,p53,CONNECTED_TO,2
+vascular,breast cancer,CONNECTED_TO,2
+vascular,serpine1,CONNECTED_TO,4
+vascular,fat,CONNECTED_TO,1
+vascular,chromatin,CONNECTED_TO,2
+vascular,wnt,CONNECTED_TO,4
+vascular,hmgb1,CONNECTED_TO,3
+vascular,ssm,CONNECTED_TO,1
+vascular,imd1-53,CONNECTED_TO,1
+vascular,intestinal,CONNECTED_TO,2
+vascular,intracellular,CONNECTED_TO,1
+vascular,sphk1,CONNECTED_TO,2
+cholinesterase inhibitor,human,CONNECTED_TO,1
+bacteroides [41],slc9a3,CONNECTED_TO,1
+carcinine,human,CONNECTED_TO,3
+cell,chromatin,CONNECTED_TO,49
+cell,human,CONNECTED_TO,715
+cell,patients,CONNECTED_TO,135
+cell,brain,CONNECTED_TO,60
+cell,serum,CONNECTED_TO,18
+cell,tumor,CONNECTED_TO,189
+cell,intracellular,CONNECTED_TO,31
+cell,rna,CONNECTED_TO,34
+cell,p53,CONNECTED_TO,58
+cell,blood,CONNECTED_TO,54
+cell,mitochondrial,CONNECTED_TO,73
+cell,lipid,CONNECTED_TO,27
+cell,mouse,CONNECTED_TO,184
+cell,rats,CONNECTED_TO,15
+cell,plasma,CONNECTED_TO,28
+cell,fat,CONNECTED_TO,12
+cell,stat3,CONNECTED_TO,19
+cell,tnf,CONNECTED_TO,22
+cell,rat brains,CONNECTED_TO,1
+cell,immune cells,CONNECTED_TO,38
+cell,hmgb1,CONNECTED_TO,53
+cell,cd4,CONNECTED_TO,71
+cell,meiotic chromosomal,CONNECTED_TO,1
+cell,wnt,CONNECTED_TO,17
+cell,intestinal,CONNECTED_TO,21
+cell,gata4,CONNECTED_TO,31
+cell,gut,CONNECTED_TO,27
+cell,human telomere,CONNECTED_TO,1
+cell,breast cancer,CONNECTED_TO,28
+cell,serpine1,CONNECTED_TO,31
+cell,human leukocyte telomere,CONNECTED_TO,1
+cell,erk 1/2,CONNECTED_TO,1
+cell,human immune system [1,CONNECTED_TO,1
+cell,schizosaccharomyces,CONNECTED_TO,1
+cell,sphk1,CONNECTED_TO,35
+snp-snp,human,CONNECTED_TO,1
+nthl1,human,CONNECTED_TO,1
+splenic t cells,human,CONNECTED_TO,1
+splenic t cells,cd2/protein kinase c alpha,CONNECTED_TO,1
+soleus,5’-amp-activated protein kinase catalytic subunit,CONNECTED_TO,1
+soleus,gastrocnemius muscles.,CONNECTED_TO,1
+soleus,alpha-2,CONNECTED_TO,1
+soleus,muscle-dependent,CONNECTED_TO,1
+soleus,triceps,CONNECTED_TO,1
+meiotic chromosomal,human,CONNECTED_TO,1
+"f (3, 6",human,CONNECTED_TO,2
+hmgb1,brain,CONNECTED_TO,9
+hmgb1,p53,CONNECTED_TO,3
+hmgb1,tumor,CONNECTED_TO,12
+hmgb1,gata4,CONNECTED_TO,1
+hmgb1,human,CONNECTED_TO,168
+hmgb1,rats,CONNECTED_TO,10
+hmgb1,serum,CONNECTED_TO,13
+hmgb1,patients,CONNECTED_TO,16
+hmgb1,mouse,CONNECTED_TO,32
+hmgb1,immune cells,CONNECTED_TO,5
+hmgb1,intracellular,CONNECTED_TO,5
+hmgb1,plasma,CONNECTED_TO,3
+hmgb1,blood,CONNECTED_TO,2
+hmgb1,rna,CONNECTED_TO,3
+hmgb1,gut,CONNECTED_TO,1
+hmgb1,intestinal,CONNECTED_TO,1
+hmgb1,mouse bone-marrow derived macrophages,CONNECTED_TO,1
+hmgb1,chromatin,CONNECTED_TO,1
+hmgb1,tnf,CONNECTED_TO,5
+hmgb1,mitochondrial,CONNECTED_TO,3
+hmgb1,stat3,CONNECTED_TO,3
+hmgb1,cd4,CONNECTED_TO,1
+corticosteroid receptor,rats,CONNECTED_TO,1
+excitatory neurotransmitter receptor,cervical ganglion,CONNECTED_TO,1
+cardiac [,lipid,CONNECTED_TO,1
+5.33 years.table,cpg inputscorrelationerror,CONNECTED_TO,1
+von zglinicki,human,CONNECTED_TO,1
+hc telomeres,human,CONNECTED_TO,1
+"[7,8,15]",rna,CONNECTED_TO,1
+"[7,8,15]",tumor,CONNECTED_TO,1
+deacetylates,mitochondrial,CONNECTED_TO,2
+deacetylates,human,CONNECTED_TO,2
+p53,wnt,CONNECTED_TO,2
+p53,blood,CONNECTED_TO,8
+p53,chromatin,CONNECTED_TO,1
+p53,gata4,CONNECTED_TO,4
+p53,tumor,CONNECTED_TO,33
+p53,intracellular,CONNECTED_TO,4
+p53,patients,CONNECTED_TO,8
+p53,mitochondrial,CONNECTED_TO,16
+p53,lipid,CONNECTED_TO,8
+p53,human,CONNECTED_TO,38
+p53,serum,CONNECTED_TO,2
+p53,plasma,CONNECTED_TO,2
+p53,stat3,CONNECTED_TO,3
+p53,tnf,CONNECTED_TO,4
+p53,brain,CONNECTED_TO,7
+p53,mouse,CONNECTED_TO,14
+p53,gut,CONNECTED_TO,3
+p53,serpine1,CONNECTED_TO,4
+p53,rats,CONNECTED_TO,2
+p53,rna,CONNECTED_TO,2
+p53,co-activator 1α,CONNECTED_TO,1
+p53,immune cells,CONNECTED_TO,1
+p53,cd4,CONNECTED_TO,3
+p53,tap63,CONNECTED_TO,1
+p53,breast cancer,CONNECTED_TO,2
+p53,intestinal,CONNECTED_TO,2
+p53,sphk1,CONNECTED_TO,2
+mouse embryotic stem cells,human,CONNECTED_TO,1
+retinal microvessels,mitochondrial,CONNECTED_TO,1
+cardiomyocyte telomere,human,CONNECTED_TO,1
+human xenograft prostate,breast cancer,CONNECTED_TO,1
+human xenograft prostate,serum,CONNECTED_TO,1
+human xenograft prostate,tumor,CONNECTED_TO,1
+tumor,patients,CONNECTED_TO,58
+tumor,blood,CONNECTED_TO,22
+tumor,plasma,CONNECTED_TO,18
+tumor,serum,CONNECTED_TO,14
+tumor,human,CONNECTED_TO,172
+tumor,intracellular,CONNECTED_TO,9
+tumor,mitochondrial,CONNECTED_TO,11
+tumor,lipid,CONNECTED_TO,10
+tumor,brain,CONNECTED_TO,14
+tumor,mouse,CONNECTED_TO,50
+tumor,rats,CONNECTED_TO,4
+tumor,stat3,CONNECTED_TO,14
+tumor,tnf,CONNECTED_TO,8
+tumor,immune cells,CONNECTED_TO,21
+tumor,intestinal,CONNECTED_TO,13
+tumor,chromatin,CONNECTED_TO,11
+tumor,breast cancer,CONNECTED_TO,36
+tumor,fat,CONNECTED_TO,3
+tumor,rna,CONNECTED_TO,21
+tumor,cd4,CONNECTED_TO,16
+tumor,wnt,CONNECTED_TO,4
+tumor,gut,CONNECTED_TO,12
+tumor,gata4,CONNECTED_TO,12
+tumor,serpine1,CONNECTED_TO,10
+tumor,sphk1,CONNECTED_TO,31
+tumor,function19,CONNECTED_TO,1
+autophagy-independent,rat pc12,CONNECTED_TO,1
+subtelomeric,human,CONNECTED_TO,1
+baculovirus,human,CONNECTED_TO,1
+inter-chromosome,chorionic cytotrophoblast [,CONNECTED_TO,1
+nuclear factor 2,cross-complementing protein 6,CONNECTED_TO,1
+nuclear factor 2,immune cells,CONNECTED_TO,1
+nuclear factor 2,xrcc6,CONNECTED_TO,1
+nuclear factor 2,chromatin,CONNECTED_TO,1
+human corneal grafts,intracellular,CONNECTED_TO,1
+histone modifications.table 2human,protein/rna,CONNECTED_TO,1
+caspases 3,rats,CONNECTED_TO,1
+caspases 3,mitochondrial,CONNECTED_TO,1
+blood leucocytes,human,CONNECTED_TO,1
+blood leucocytes,patients,CONNECTED_TO,1
+human wi‐38 cells stably,senescence‐associated β‐galactosidase,CONNECTED_TO,1
+wnt,chromatin,CONNECTED_TO,8
+wnt,blood,CONNECTED_TO,5
+wnt,gata4,CONNECTED_TO,4
+wnt,human,CONNECTED_TO,12
+wnt,estrogen receptor α,CONNECTED_TO,1
+wnt,mouse,CONNECTED_TO,6
+wnt,patients,CONNECTED_TO,8
+wnt,brain,CONNECTED_TO,3
+wnt,rats,CONNECTED_TO,2
+wnt,tnf,CONNECTED_TO,2
+wnt,gut,CONNECTED_TO,2
+wnt,rna,CONNECTED_TO,1
+wnt,serum,CONNECTED_TO,1
+wnt,mitochondrial,CONNECTED_TO,2
+wnt,lipid,CONNECTED_TO,1
+wnt,intracellular,CONNECTED_TO,2
+wnt,breast cancer,CONNECTED_TO,2
+wnt,stat3,CONNECTED_TO,2
+wnt,intestinal,CONNECTED_TO,1
+wnt,serpine1,CONNECTED_TO,1
+wnt,plasma,CONNECTED_TO,1
+plasma apoe [,human,CONNECTED_TO,1
+human skeletal muscle [47,mitochondrial,CONNECTED_TO,1
+mouse,human,CONNECTED_TO,688
+mouse,patients,CONNECTED_TO,47
+mouse,brain,CONNECTED_TO,56
+mouse,plasma,CONNECTED_TO,16
+mouse,rna,CONNECTED_TO,9
+mouse,serum,CONNECTED_TO,15
+mouse,blood,CONNECTED_TO,22
+mouse,intracellular,CONNECTED_TO,8
+mouse,rats,CONNECTED_TO,14
+mouse,lipid,CONNECTED_TO,10
+mouse,gut,CONNECTED_TO,32
+mouse,immune cells,CONNECTED_TO,15
+mouse,intestinal,CONNECTED_TO,20
+mouse,function19,CONNECTED_TO,1
+mouse,breast cancer,CONNECTED_TO,13
+mouse,serpine1,CONNECTED_TO,22
+mouse,mitochondrial,CONNECTED_TO,26
+mouse,fat,CONNECTED_TO,6
+mouse,stat3,CONNECTED_TO,7
+mouse,cd4,CONNECTED_TO,12
+mouse,naked-mole rat,CONNECTED_TO,1
+mouse,chromatin,CONNECTED_TO,21
+mouse,whitehead,CONNECTED_TO,1
+mouse,gata4,CONNECTED_TO,70
+mouse,tnf,CONNECTED_TO,3
+mouse,sphk1,CONNECTED_TO,24
+chromatin,human,CONNECTED_TO,76
+chromatin,blood,CONNECTED_TO,6
+chromatin,gata4,CONNECTED_TO,7
+chromatin,patients,CONNECTED_TO,12
+chromatin,breast cancer,CONNECTED_TO,2
+chromatin,gut,CONNECTED_TO,8
+chromatin,intestinal,CONNECTED_TO,2
+chromatin,rna,CONNECTED_TO,7
+chromatin,serum,CONNECTED_TO,4
+chromatin,cd4,CONNECTED_TO,4
+chromatin,mitochondrial,CONNECTED_TO,3
+chromatin,rats,CONNECTED_TO,3
+chromatin,tnf,CONNECTED_TO,4
+chromatin,brain,CONNECTED_TO,5
+chromatin,senescence-associated genes like ccnd1,CONNECTED_TO,1
+chromatin,immune cells,CONNECTED_TO,3
+chromatin,lipid,CONNECTED_TO,1
+chromatin,intracellular,CONNECTED_TO,1
+chromatin,cross-complementing protein 6,CONNECTED_TO,1
+chromatin,xrcc6,CONNECTED_TO,1
+human mitochondrial haplogroup,ubisemiquinone,CONNECTED_TO,1
+abdomens,body segment,CONNECTED_TO,1
+abdomens,abdomen,CONNECTED_TO,1
+cross-complementing protein 6,immune cells,CONNECTED_TO,1
+cross-complementing protein 6,xrcc6,CONNECTED_TO,1
+xrcc6,immune cells,CONNECTED_TO,1
+[13],human,CONNECTED_TO,1
+breast cancer,blood,CONNECTED_TO,6
+breast cancer,human,CONNECTED_TO,21
+breast cancer,patients,CONNECTED_TO,17
+breast cancer,brain,CONNECTED_TO,5
+breast cancer,mitochondrial,CONNECTED_TO,2
+breast cancer,serum,CONNECTED_TO,3
+breast cancer,rna,CONNECTED_TO,3
+breast cancer,stat3,CONNECTED_TO,3
+breast cancer,cd4,CONNECTED_TO,7
+breast cancer,immune cells,CONNECTED_TO,4
+breast cancer,gut,CONNECTED_TO,5
+breast cancer,intracellular,CONNECTED_TO,3
+breast cancer,intestinal,CONNECTED_TO,3
+breast cancer,lipid,CONNECTED_TO,2
+breast cancer,rats,CONNECTED_TO,2
+breast cancer,plasma,CONNECTED_TO,3
+breast cancer,sphk1,CONNECTED_TO,12
+mtor inhibitor rad001,human,CONNECTED_TO,1
+formin 2,proline-rich synapse-associated protein 2,CONNECTED_TO,1
+formin 2,"protein kinase c, alpha)",CONNECTED_TO,1
+20-22,20-25 human,CONNECTED_TO,1
+body segment,abdomen,CONNECTED_TO,1
+triceps,5’-amp-activated protein kinase catalytic subunit,CONNECTED_TO,1
+triceps,gastrocnemius muscles.,CONNECTED_TO,1
+triceps,alpha-2,CONNECTED_TO,1
+triceps,muscle-dependent,CONNECTED_TO,1
+human,patients,CONNECTED_TO,325
+human,brain,CONNECTED_TO,220
+human,plasma,CONNECTED_TO,84
+human,bladder cancer cells,CONNECTED_TO,2
+human,casp6,CONNECTED_TO,1
+human,serum,CONNECTED_TO,71
+human,intracellular,CONNECTED_TO,24
+human,blood,CONNECTED_TO,128
+human,hormone-chorionic somatomammotropin,CONNECTED_TO,1
+human,gene-specific 5mc,CONNECTED_TO,1
+human,chorionic villus,CONNECTED_TO,1
+human,human four-cell embryos,CONNECTED_TO,1
+human,mitochondrial,CONNECTED_TO,185
+human,rats,CONNECTED_TO,60
+human,rna,CONNECTED_TO,60
+human,lipid,CONNECTED_TO,48
+human,gut,CONNECTED_TO,338
+human,fat,CONNECTED_TO,33
+human,lpc species,CONNECTED_TO,2
+human,immune cells,CONNECTED_TO,56
+human,stat3,CONNECTED_TO,20
+human,rat hearts,CONNECTED_TO,2
+human,isolated cumulus cells,CONNECTED_TO,1
+human,proteinopathies,CONNECTED_TO,1
+human,cd2/protein kinase c alpha,CONNECTED_TO,1
+human,ras gtpase-activating protein,CONNECTED_TO,1
+human,hypothalamo-neurohypophyseal,CONNECTED_TO,1
+human,urinary norepinephrine,CONNECTED_TO,1
+human,bovine aortic wall,CONNECTED_TO,1
+human,somatic mitochondrial,CONNECTED_TO,1
+human,intestinal,CONNECTED_TO,79
+human,function19,CONNECTED_TO,1
+human,cells8,CONNECTED_TO,1
+human,cd4,CONNECTED_TO,50
+human,hd patient postmortem brains,CONNECTED_TO,1
+human,patient fibroblasts,CONNECTED_TO,1
+human,serpine1,CONNECTED_TO,162
+human,ck2,CONNECTED_TO,2
+human,tnf,CONNECTED_TO,18
+human,naked-mole rat,CONNECTED_TO,1
+human,normal-matched fibroblasts,CONNECTED_TO,1
+human,dna methyltransferase 1,CONNECTED_TO,1
+human,gata4,CONNECTED_TO,265
+human,soma,CONNECTED_TO,1
+human,cockayne,CONNECTED_TO,1
+human,mouse bone-marrow derived macrophages,CONNECTED_TO,1
+human,membrane rafts,CONNECTED_TO,1
+human,sperm telomere,CONNECTED_TO,1
+human,telomerase activity11,CONNECTED_TO,1
+human,blood cells12–16,CONNECTED_TO,1
+human,blood cancer,CONNECTED_TO,1
+human,human longevity.23,CONNECTED_TO,1
+human,""" growth factor-1",CONNECTED_TO,1
+human,schizosaccharomyces,CONNECTED_TO,1
+human,burnett-hartman,CONNECTED_TO,1
+human,sphk1,CONNECTED_TO,138
+serpine1,patients,CONNECTED_TO,17
+serpine1,plasma,CONNECTED_TO,6
+serpine1,tnf,CONNECTED_TO,4
+serpine1,stat3,CONNECTED_TO,5
+serpine1,blood,CONNECTED_TO,2
+serpine1,lipid,CONNECTED_TO,2
+serpine1,rats,CONNECTED_TO,1
+serpine1,rna,CONNECTED_TO,1
+serpine1,fat,CONNECTED_TO,1
+serpine1,gata4,CONNECTED_TO,2
+serpine1,intestinal,CONNECTED_TO,1
+serpine1,brain,CONNECTED_TO,2
+muscle-dependent,5’-amp-activated protein kinase catalytic subunit,CONNECTED_TO,1
+muscle-dependent,gastrocnemius muscles.,CONNECTED_TO,1
+muscle-dependent,alpha-2,CONNECTED_TO,1
+gene-specific 5mc,blood,CONNECTED_TO,1
+cd4,patients,CONNECTED_TO,26
+cd4,gut,CONNECTED_TO,5
+cd4,tnf,CONNECTED_TO,6
+cd4,immune cells,CONNECTED_TO,9
+cd4,blood,CONNECTED_TO,6
+cd4,plasma,CONNECTED_TO,1
+cd4,mitochondrial,CONNECTED_TO,5
+cd4,intestinal,CONNECTED_TO,2
+cd4,brain,CONNECTED_TO,3
+cd4,fat,CONNECTED_TO,1
+cd4,serum,CONNECTED_TO,3
+cd4,rna,CONNECTED_TO,5
+cd4,rats,CONNECTED_TO,1
+cd4,stat3,CONNECTED_TO,4
+cd4,intracellular,CONNECTED_TO,2
+cd4,lipid,CONNECTED_TO,1
+cd4,sphk1,CONNECTED_TO,1
+human metastatic melanoma cells,t98g glioblastoma cells,CONNECTED_TO,1
+""" growth factor-1",human longevity.23,CONNECTED_TO,1
+heat shock transcription factor,hsp 70,CONNECTED_TO,1
+5’-amp-activated protein kinase catalytic subunit,gastrocnemius muscles.,CONNECTED_TO,1
+5’-amp-activated protein kinase catalytic subunit,alpha-2,CONNECTED_TO,1
+immune cells,brain,CONNECTED_TO,8
+immune cells,intestinal,CONNECTED_TO,2
+immune cells,mitochondrial,CONNECTED_TO,6
+immune cells,gut,CONNECTED_TO,9
+immune cells,patients,CONNECTED_TO,19
+immune cells,lipid,CONNECTED_TO,1
+immune cells,intracellular,CONNECTED_TO,1
+immune cells,fat,CONNECTED_TO,2
+immune cells,plasma,CONNECTED_TO,3
+immune cells,blood,CONNECTED_TO,5
+immune cells,rna,CONNECTED_TO,9
+immune cells,stat3,CONNECTED_TO,1
+immune cells,tnf,CONNECTED_TO,2
+immune cells,sphk1,CONNECTED_TO,1
+antioxidant enzymes along,rats,CONNECTED_TO,1
+uprmt-related,mitochondrial,CONNECTED_TO,1
+lpc species,mitochondrial,CONNECTED_TO,1
+p55,stat3,CONNECTED_TO,1
+p55,estrogen receptor α,CONNECTED_TO,1
+p55,fat,CONNECTED_TO,1
+gata4,blood,CONNECTED_TO,1
+gata4,patients,CONNECTED_TO,21
+gata4,rna,CONNECTED_TO,6
+gata4,stat3,CONNECTED_TO,3
+gata4,serum,CONNECTED_TO,3
+gata4,cardiac actin,CONNECTED_TO,1
+gata4,"mhc expressions,88",CONNECTED_TO,1
+gata4,intestinal,CONNECTED_TO,4
+gata4,mitochondrial,CONNECTED_TO,3
+gata4,gut,CONNECTED_TO,1
+gata4,"human es cells,80",CONNECTED_TO,1
+gata4,brain,CONNECTED_TO,1
+canine cie,intestinal,CONNECTED_TO,1
+brain,patients,CONNECTED_TO,53
+brain,plasma,CONNECTED_TO,18
+brain,rna,CONNECTED_TO,17
+brain,blood,CONNECTED_TO,60
+brain,mitochondrial,CONNECTED_TO,31
+brain,serum,CONNECTED_TO,16
+brain,intracellular,CONNECTED_TO,8
+brain,rats,CONNECTED_TO,16
+brain,lipid,CONNECTED_TO,13
+brain,fat,CONNECTED_TO,16
+brain,gut,CONNECTED_TO,33
+brain,intestinal,CONNECTED_TO,11
+brain,stat3,CONNECTED_TO,4
+brain,tnf,CONNECTED_TO,3
+brain,sphk1,CONNECTED_TO,4
+lipid,blood,CONNECTED_TO,8
+lipid,intracellular,CONNECTED_TO,10
+lipid,patients,CONNECTED_TO,7
+lipid,mitochondrial,CONNECTED_TO,15
+lipid,rats,CONNECTED_TO,5
+lipid,fat,CONNECTED_TO,11
+lipid,plasma,CONNECTED_TO,4
+lipid,rna,CONNECTED_TO,3
+lipid,stat3,CONNECTED_TO,2
+lipid,serum,CONNECTED_TO,2
+lipid,tnf,CONNECTED_TO,3
+lipid,gut,CONNECTED_TO,9
+lipid,intestinal,CONNECTED_TO,2
+lipid,sphk1,CONNECTED_TO,1
+rabbit protein kinase calpha,human cd2 promoter/enhancer,CONNECTED_TO,1
+hbx,sphk1,CONNECTED_TO,1
+myb1 membrane,synaptotagmin-2,CONNECTED_TO,1
+autophagy-related gene 8a,human lc3,CONNECTED_TO,1
+inner membrane,non-respiratory protein supercomplexes 1,CONNECTED_TO,1
+inner membrane,mitochondrial,CONNECTED_TO,1
+inner membrane,non-respiratory protein supercomplex 5,CONNECTED_TO,1
+chaperone-like,mitochondrial,CONNECTED_TO,1
+amd.[129]in-vitrohuman retinal pigment epithelial cells,amd.[130]in-vitrohuman retinal pigment epithelial cells,CONNECTED_TO,1
+rna,patients,CONNECTED_TO,21
+rna,serum,CONNECTED_TO,8
+rna,mitochondrial,CONNECTED_TO,3
+rna,fat,CONNECTED_TO,3
+rna,blood,CONNECTED_TO,11
+rna,intracellular,CONNECTED_TO,5
+rna,plasma,CONNECTED_TO,6
+rna,intestinal,CONNECTED_TO,2
+rna,stat3,CONNECTED_TO,3
+rna,gut,CONNECTED_TO,5
+rna,rats,CONNECTED_TO,2
+rna,tnf,CONNECTED_TO,3
+rna,sphk1,CONNECTED_TO,3
+human gastrointestinal barrier,gut,CONNECTED_TO,1
+glutathione s-transferase isoforms mu1,patients,CONNECTED_TO,1
+human hepatic glucocorticoid-inducible,glucocorticoid inducible human cyp3a,CONNECTED_TO,1
+"protein kinase c, alpha)",proline-rich synapse-associated protein 2,CONNECTED_TO,1
+patient fibroblasts,hd patient postmortem brains,CONNECTED_TO,1
+cardiac actin,"mhc expressions,88",CONNECTED_TO,1
+gastrocnemius muscles.,alpha-2,CONNECTED_TO,1
+rat hearts,rats,CONNECTED_TO,1
+rat hearts,mitochondrial,CONNECTED_TO,1
+rat hearts,patients,CONNECTED_TO,1
+human normal diploid fibroblasts,tnf,CONNECTED_TO,1
+human breast cancer patients,sphk1,CONNECTED_TO,1
+chondrosarcoma htb-94 cells,human knee articular chondrocytes,CONNECTED_TO,1
+human muscle cells,intracellular,CONNECTED_TO,1
+human muscle cells,mitochondrial,CONNECTED_TO,3
+blood,patients,CONNECTED_TO,52
+blood,plasma,CONNECTED_TO,28
+blood,intracellular,CONNECTED_TO,4
+blood,mitochondrial,CONNECTED_TO,14
+blood,tnf,CONNECTED_TO,7
+blood,serum,CONNECTED_TO,27
+blood,rats,CONNECTED_TO,10
+blood,fat,CONNECTED_TO,8
+blood,stat3,CONNECTED_TO,2
+blood,gut,CONNECTED_TO,18
+blood,intestinal,CONNECTED_TO,6
+blood,sphk1,CONNECTED_TO,3
+intracellular,serum,CONNECTED_TO,7
+intracellular,patients,CONNECTED_TO,10
+intracellular,mitochondrial,CONNECTED_TO,12
+intracellular,rats,CONNECTED_TO,1
+intracellular,plasma,CONNECTED_TO,4
+intracellular,gut,CONNECTED_TO,3
+intracellular,tnf,CONNECTED_TO,2
+intracellular,fat,CONNECTED_TO,2
+intracellular,intestinal,CONNECTED_TO,2
+intracellular,sphk1,CONNECTED_TO,4
+estrogen receptor α,stat3,CONNECTED_TO,1
+estrogen receptor α,fat,CONNECTED_TO,1
+non-respiratory protein supercomplex 5,non-respiratory protein supercomplexes 1,CONNECTED_TO,1
+non-respiratory protein supercomplex 5,mitochondrial,CONNECTED_TO,1
+gut,plasma,CONNECTED_TO,12
+gut,patients,CONNECTED_TO,35
+gut,tnf,CONNECTED_TO,2
+gut,intestinal,CONNECTED_TO,69
+gut,serum,CONNECTED_TO,8
+gut,fat,CONNECTED_TO,9
+gut,mitochondrial,CONNECTED_TO,11
+gut,rats,CONNECTED_TO,8
+stat3,serum,CONNECTED_TO,3
+stat3,mitochondrial,CONNECTED_TO,4
+stat3,tnf,CONNECTED_TO,4
+stat3,plasma,CONNECTED_TO,3
+stat3,rats,CONNECTED_TO,1
+stat3,fat,CONNECTED_TO,1
+stat3,intestinal,CONNECTED_TO,3
+stat3,patients,CONNECTED_TO,2
+stat3,sphk1,CONNECTED_TO,3
+blood cells12–16,telomerase activity11,CONNECTED_TO,1
+platelet‐derived growth factor,matrix metalloproteinase type,CONNECTED_TO,1
+patients,plasma,CONNECTED_TO,44
+patients,mitochondrial,CONNECTED_TO,34
+patients,serum,CONNECTED_TO,34
+patients,tnf,CONNECTED_TO,8
+patients,rats,CONNECTED_TO,16
+patients,intestinal,CONNECTED_TO,16
+patients,fat,CONNECTED_TO,5
+patients,sphk1,CONNECTED_TO,18
+serum,rats,CONNECTED_TO,10
+serum,mitochondrial,CONNECTED_TO,9
+serum,plasma,CONNECTED_TO,20
+serum,fat,CONNECTED_TO,6
+serum,tnf,CONNECTED_TO,1
+serum,intestinal,CONNECTED_TO,3
+serum,sphk1,CONNECTED_TO,3
+cellular lipid,lds,CONNECTED_TO,1
+non-respiratory protein supercomplexes 1,mitochondrial,CONNECTED_TO,1
+mitochondrial,plasma,CONNECTED_TO,7
+mitochondrial,tnf,CONNECTED_TO,3
+mitochondrial,rats,CONNECTED_TO,14
+mitochondrial,intestinal,CONNECTED_TO,3
+mitochondrial,fat,CONNECTED_TO,6
+mitochondrial,cytochrome c oxidase subunit 1,CONNECTED_TO,1
+mitochondrial,sphk1,CONNECTED_TO,3
+plasma,fat,CONNECTED_TO,7
+plasma,intestinal,CONNECTED_TO,4
+plasma,rats,CONNECTED_TO,6
+plasma,tnf,CONNECTED_TO,3
+rats,intestinal,CONNECTED_TO,6
+rats,fat,CONNECTED_TO,2
+rats,tnf,CONNECTED_TO,1
+rats,imd1-53,CONNECTED_TO,1
+rats,sphk1,CONNECTED_TO,1
+intestinal,fat,CONNECTED_TO,6
+intestinal,tnf,CONNECTED_TO,1
+fat,mouse [25] dogs,CONNECTED_TO,1
+fat,tnf,CONNECTED_TO,1
+fat,sphk1,CONNECTED_TO,1
